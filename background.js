@@ -1,9 +1,11 @@
 let intervalID;
 let active = false;
+let adCount = 0;
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.action === 'start') {
     active = true;
+    adCount = 0;
     automationLoop();
   } else if (request.action === 'stop') {
     active = false;
@@ -15,30 +17,60 @@ function automationLoop() {
   if (!active) return;
 
   chrome.tabs.create({url: 'https://www.amazon.com/'}, (tab) => {
-    chrome.tabs.executeScript(tab.id, {file: 'content.js'}, () => {
-      openAds();
-      intervalID = setInterval(() => {
-        closeTabs(() => {
-          chrome.tabs.update(tab.id, {url: 'https://www.amazon.com/'});
-        });
-      }, 10000); // Adjust time as necessary
+    chrome.scripting.executeScript({
+      target: {tabId: tab.id},
+      files: ['content.js']
+    }, () => {
+      clickAndNavigate(tab.id);
     });
   });
 }
 
-function openAds() {
-  chrome.tabs.query({active: true, currentWindow: true}, (tabs) => {
-    chrome.tabs.sendMessage(tabs[0].id, {action: 'clickAds'});
+function clickAndNavigate(tabId) {
+  chrome.scripting.executeScript({
+    target: {tabId: tabId},
+    function: clickAds
+  }, (results) => {
+    if (results && results[0] && results[0].result) {
+      adCount++;
+      updatePopupCount();
+      setTimeout(() => {
+        chrome.tabs.update(tabId, {url: 'https://www.amazon.com/'}, () => {
+          if (active) {
+            automationLoop();
+          }
+        });
+      }, 3000); // Adjust delay as necessary
+    }
   });
 }
 
-function closeTabs(callback) {
-  chrome.tabs.query({}, (tabs) => {
-    for (let tab of tabs) {
-      if (tab.url !== 'https://www.amazon.com/') {
-        chrome.tabs.remove(tab.id);
+function updatePopupCount() {
+  chrome.runtime.sendMessage({action: 'updateCount', count: adCount});
+}
+
+function clickAds() {
+  const adSelectors = [
+    'div[id^="desktop-ad-"]',
+    'div[data-cel-widget*="adplacements:"]'
+  ];
+
+  let clicked = false;
+
+  adSelectors.forEach(selector => {
+    if (clicked) return;
+
+    const ads = document.querySelectorAll(selector);
+    ads.forEach(ad => {
+      if (clicked) return;
+
+      const link = ad.querySelector('a');
+      if (link && link.href) {
+        window.location.href = link.href;
+        clicked = true;
       }
-    }
-    if (callback) callback();
+    });
   });
+
+  return clicked;
 }

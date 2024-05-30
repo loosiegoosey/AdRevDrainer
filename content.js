@@ -1,13 +1,32 @@
-chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
-    if (request.action === 'clickAds') {
-      clickAds();
-    }
-  });
-  
-  function clickAds() {
-    const ads = document.querySelectorAll('a[href*="/gp/slredirect/"]');
+function clickAds() {
+  const adSelectors = [
+    'div[id^="desktop-ad-"]',
+    'div[data-cel-widget*="adplacements:"]'
+  ];
+
+  let clicked = false;
+
+  adSelectors.forEach(selector => {
+    if (clicked) return;
+
+    const ads = document.querySelectorAll(selector);
     ads.forEach(ad => {
-      window.open(ad.href, '_blank');
+      if (clicked) return;
+
+      const link = ad.querySelector('a');
+      if (link && link.href) {
+        window.location.href = link.href;
+        clicked = true;
+      }
     });
+  });
+
+  return clicked;
+}
+
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+  if (request.action === 'clickAds') {
+    const result = clickAds();
+    sendResponse({result: result});
   }
-  
+});
