@@ -1,23 +1,17 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Amazon Ad Clicker",
     "version": "1.0",
     "description": "Automatically click ads on Amazon.",
     "permissions": [
       "tabs",
-      "https://www.amazon.com/"
+      "scripting",
+      "activeTab"
     ],
     "background": {
-      "scripts": ["background.js"],
-      "persistent": false
+      "service_worker": "background.js"
     },
-    "content_scripts": [
-      {
-        "matches": ["https://www.amazon.com/*"],
-        "js": ["content.js"]
-      }
-    ],
-    "browser_action": {
+    "action": {
       "default_popup": "popup.html",
       "default_icon": {
         "16": "icons/icon16.png",
