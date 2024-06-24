@@ -1,0 +1,1321 @@
+2024-06-02 15:25:16,520 - INFO - Proxy http://104.207.43.119:3128 is valid.
+2024-06-02 15:25:17,399 - INFO - Proxy http://104.167.26.235:3128 is valid.
+2024-06-02 15:25:18,425 - INFO - Proxy http://104.167.31.222:3128 is valid.
+2024-06-02 15:25:19,442 - INFO - Proxy http://104.167.26.72:3128 is valid.
+2024-06-02 15:25:20,401 - INFO - Proxy http://104.207.34.211:3128 is valid.
+2024-06-02 15:25:21,402 - INFO - Proxy http://104.207.34.92:3128 is valid.
+2024-06-02 15:25:22,403 - INFO - Proxy http://104.207.52.205:3128 is valid.
+2024-06-02 15:25:23,291 - INFO - Proxy http://104.207.41.203:3128 is valid.
+2024-06-02 15:28:33,826 - INFO - Proxy http://104.207.43.119:3128 is valid.
+2024-06-02 15:28:38,712 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 15:28:38,712 - INFO - Removed proxy: http://104.207.43.119:3128
+2024-06-02 15:31:16,141 - INFO - Proxy http://104.207.43.119:3128 is valid.
+2024-06-02 15:31:21,029 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 15:31:21,029 - INFO - Removed proxy: http://104.207.43.119:3128
+2024-06-02 17:17:48,098 - INFO - Proxy http://104.207.43.119:3128 is valid.
+2024-06-02 17:17:52,949 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:17:52,949 - INFO - Removed proxy: http://104.207.43.119:3128
+2024-06-02 17:18:03,510 - INFO - Proxy http://104.167.26.235:3128 is valid.
+2024-06-02 17:18:08,241 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:18:08,241 - INFO - Removed proxy: http://104.167.26.235:3128
+2024-06-02 17:18:19,091 - INFO - Proxy http://104.167.31.222:3128 is valid.
+2024-06-02 17:18:23,804 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:18:23,804 - INFO - Removed proxy: http://104.167.31.222:3128
+2024-06-02 17:18:34,767 - INFO - Proxy http://104.167.26.72:3128 is valid.
+2024-06-02 17:18:39,488 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:18:39,488 - INFO - Removed proxy: http://104.167.26.72:3128
+2024-06-02 17:21:37,057 - INFO - Proxy http://104.207.43.119:3128 is valid.
+2024-06-02 17:21:41,984 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:21:41,984 - INFO - Removed proxy: http://104.207.43.119:3128
+2024-06-02 17:21:48,509 - INFO - Proxy http://104.167.26.235:3128 is valid.
+2024-06-02 17:21:53,220 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:21:53,220 - INFO - Removed proxy: http://104.167.26.235:3128
+2024-06-02 17:22:00,940 - INFO - Proxy http://104.167.31.222:3128 is valid.
+2024-06-02 17:22:05,674 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:22:05,674 - INFO - Removed proxy: http://104.167.31.222:3128
+2024-06-02 17:22:11,852 - INFO - Proxy http://104.167.26.72:3128 is valid.
+2024-06-02 17:22:16,572 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:22:16,572 - INFO - Removed proxy: http://104.167.26.72:3128
+2024-06-02 17:22:39,822 - INFO - Proxy http://104.207.34.211:3128 is valid.
+2024-06-02 17:22:44,560 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:22:44,560 - INFO - Removed proxy: http://104.207.34.211:3128
+2024-06-02 17:22:53,945 - INFO - Proxy http://104.207.34.92:3128 is valid.
+2024-06-02 17:22:58,687 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:22:58,687 - INFO - Removed proxy: http://104.207.34.92:3128
+2024-06-02 17:23:05,879 - INFO - Proxy http://104.207.52.205:3128 is valid.
+2024-06-02 17:23:10,619 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:23:10,619 - INFO - Removed proxy: http://104.207.52.205:3128
+2024-06-02 17:23:19,028 - INFO - Proxy http://104.207.41.203:3128 is valid.
+2024-06-02 17:23:23,749 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:23:23,749 - INFO - Removed proxy: http://104.207.41.203:3128
+2024-06-02 17:23:50,141 - ERROR - Proxy http://104.207.36.133:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+2024-06-02 17:23:51,081 - INFO - Proxy http://104.207.49.194:3128 is valid.
+2024-06-02 17:23:55,807 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:23:55,807 - INFO - Removed proxy: http://104.207.49.194:3128
+2024-06-02 17:24:03,222 - INFO - Proxy http://104.207.36.133:3128 is valid.
+2024-06-02 17:24:07,974 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:24:07,974 - INFO - Removed proxy: http://104.207.36.133:3128
+2024-06-02 17:24:14,967 - INFO - Proxy http://104.207.47.78:3128 is valid.
+2024-06-02 17:24:19,699 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:24:19,699 - INFO - Removed proxy: http://104.207.47.78:3128
+2024-06-02 17:24:27,355 - INFO - Proxy http://104.207.54.82:3128 is valid.
+2024-06-02 17:24:32,098 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:24:32,098 - INFO - Removed proxy: http://104.207.54.82:3128
+2024-06-02 17:25:02,398 - ERROR - Proxy http://104.207.51.11:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+2024-06-02 17:25:03,382 - INFO - Proxy http://104.207.55.92:3128 is valid.
+2024-06-02 17:25:08,111 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:25:08,111 - INFO - Removed proxy: http://104.207.55.92:3128
+2024-06-02 17:25:14,783 - INFO - Proxy http://104.207.51.11:3128 is valid.
+2024-06-02 17:25:19,508 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:25:19,508 - INFO - Removed proxy: http://104.207.51.11:3128
+2024-06-02 17:25:26,150 - INFO - Proxy http://104.207.62.121:3128 is valid.
+2024-06-02 17:25:30,922 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:25:30,922 - INFO - Removed proxy: http://104.207.62.121:3128
+2024-06-02 17:25:38,712 - INFO - Proxy http://104.207.51.130:3128 is valid.
+2024-06-02 17:25:43,457 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:25:43,457 - INFO - Removed proxy: http://104.207.51.130:3128
+2024-06-02 17:26:08,842 - ERROR - Proxy http://104.207.38.20:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+2024-06-02 17:26:09,884 - INFO - Proxy http://104.207.60.157:3128 is valid.
+2024-06-02 17:26:14,617 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:26:14,617 - INFO - Removed proxy: http://104.207.60.157:3128
+2024-06-02 17:26:21,976 - INFO - Proxy http://104.207.38.20:3128 is valid.
+2024-06-02 17:26:26,695 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:26:26,695 - INFO - Removed proxy: http://104.207.38.20:3128
+2024-06-02 17:26:35,985 - INFO - Proxy http://104.207.61.76:3128 is valid.
+2024-06-02 17:26:40,712 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:26:40,712 - INFO - Removed proxy: http://104.207.61.76:3128
+2024-06-02 17:26:50,302 - INFO - Proxy http://104.207.63.110:3128 is valid.
+2024-06-02 17:26:55,047 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:26:55,047 - INFO - Removed proxy: http://104.207.63.110:3128
+2024-06-02 17:27:19,139 - ERROR - Proxy http://104.207.49.86:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+2024-06-02 17:27:20,154 - INFO - Proxy http://104.167.26.35:3128 is valid.
+2024-06-02 17:27:24,917 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:27:24,917 - INFO - Removed proxy: http://104.167.26.35:3128
+2024-06-02 17:27:31,274 - INFO - Proxy http://104.207.49.86:3128 is valid.
+2024-06-02 17:27:36,032 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:27:36,032 - INFO - Removed proxy: http://104.207.49.86:3128
+2024-06-02 17:27:43,278 - INFO - Proxy http://104.207.57.75:3128 is valid.
+2024-06-02 17:27:48,004 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:27:48,004 - INFO - Removed proxy: http://104.207.57.75:3128
+2024-06-02 17:27:58,769 - INFO - Proxy http://104.207.49.227:3128 is valid.
+2024-06-02 17:28:03,477 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:28:03,477 - INFO - Removed proxy: http://104.207.49.227:3128
+2024-06-02 17:28:25,911 - ERROR - Proxy http://104.207.48.48:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+2024-06-02 17:28:26,938 - INFO - Proxy http://104.207.40.80:3128 is valid.
+2024-06-02 17:28:31,654 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:28:31,654 - INFO - Removed proxy: http://104.207.40.80:3128
+2024-06-02 17:28:38,200 - INFO - Proxy http://104.207.48.48:3128 is valid.
+2024-06-02 17:28:42,928 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:28:42,928 - INFO - Removed proxy: http://104.207.48.48:3128
+2024-06-02 17:28:50,248 - INFO - Proxy http://104.207.52.94:3128 is valid.
+2024-06-02 17:28:55,007 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:28:55,007 - INFO - Removed proxy: http://104.207.52.94:3128
+2024-06-02 17:29:02,377 - INFO - Proxy http://104.167.30.133:3128 is valid.
+2024-06-02 17:29:07,126 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:29:07,126 - INFO - Removed proxy: http://104.167.30.133:3128
+2024-06-02 17:29:33,382 - ERROR - Proxy http://104.207.42.35:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+2024-06-02 17:29:34,449 - INFO - Proxy http://104.207.56.210:3128 is valid.
+2024-06-02 17:29:39,208 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:29:39,208 - INFO - Removed proxy: http://104.207.56.210:3128
+2024-06-02 17:29:46,628 - INFO - Proxy http://104.207.42.35:3128 is valid.
+2024-06-02 17:29:51,366 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:29:51,366 - INFO - Removed proxy: http://104.207.42.35:3128
+2024-06-02 17:29:57,599 - INFO - Proxy http://104.207.49.249:3128 is valid.
+2024-06-02 17:30:02,333 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:30:02,333 - INFO - Removed proxy: http://104.207.49.249:3128
+2024-06-02 17:30:12,034 - INFO - Proxy http://104.207.32.52:3128 is valid.
+2024-06-02 17:30:16,769 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:30:16,769 - INFO - Removed proxy: http://104.207.32.52:3128
+2024-06-02 17:30:38,986 - ERROR - Proxy http://104.207.49.47:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+2024-06-02 17:30:39,996 - INFO - Proxy http://104.207.54.42:3128 is valid.
+2024-06-02 17:30:44,741 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:30:44,741 - INFO - Removed proxy: http://104.207.54.42:3128
+2024-06-02 17:30:54,470 - INFO - Proxy http://104.207.49.47:3128 is valid.
+2024-06-02 17:30:59,209 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:30:59,209 - INFO - Removed proxy: http://104.207.49.47:3128
+2024-06-02 17:31:06,819 - INFO - Proxy http://104.207.54.94:3128 is valid.
+2024-06-02 17:31:11,572 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:31:11,572 - INFO - Removed proxy: http://104.207.54.94:3128
+2024-06-02 17:31:21,582 - INFO - Proxy http://104.167.31.102:3128 is valid.
+2024-06-02 17:31:26,341 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:31:26,341 - INFO - Removed proxy: http://104.167.31.102:3128
+2024-06-02 17:31:50,133 - ERROR - Proxy http://104.207.55.199:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+2024-06-02 17:31:51,158 - INFO - Proxy http://104.207.58.61:3128 is valid.
+2024-06-02 17:31:55,888 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:31:55,888 - INFO - Removed proxy: http://104.207.58.61:3128
+2024-06-02 17:32:03,552 - INFO - Proxy http://104.207.55.199:3128 is valid.
+2024-06-02 17:32:08,271 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:32:08,271 - INFO - Removed proxy: http://104.207.55.199:3128
+2024-06-02 17:32:19,057 - INFO - Proxy http://104.207.45.213:3128 is valid.
+2024-06-02 17:32:23,799 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:32:23,799 - INFO - Removed proxy: http://104.207.45.213:3128
+2024-06-02 17:32:32,328 - INFO - Proxy http://104.207.46.92:3128 is valid.
+2024-06-02 17:32:37,064 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:32:37,064 - INFO - Removed proxy: http://104.207.46.92:3128
+2024-06-02 17:33:03,764 - ERROR - Proxy http://104.167.24.41:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response')))
+2024-06-02 17:33:04,842 - INFO - Proxy http://104.207.53.102:3128 is valid.
+2024-06-02 17:33:09,595 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:33:09,595 - INFO - Removed proxy: http://104.207.53.102:3128
+2024-06-02 17:33:19,609 - INFO - Proxy http://104.167.24.41:3128 is valid.
+2024-06-02 17:33:24,374 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:33:24,374 - INFO - Removed proxy: http://104.167.24.41:3128
+2024-06-02 17:33:31,928 - INFO - Proxy http://104.207.49.102:3128 is valid.
+2024-06-02 17:33:36,659 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:33:36,659 - INFO - Removed proxy: http://104.207.49.102:3128
+2024-06-02 17:33:47,272 - INFO - Proxy http://104.167.29.153:3128 is valid.
+2024-06-02 17:33:52,018 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:33:52,018 - INFO - Removed proxy: http://104.167.29.153:3128
+2024-06-02 17:34:14,524 - INFO - Proxy http://104.207.38.134:3128 is valid.
+2024-06-02 17:34:19,293 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:34:19,293 - INFO - Removed proxy: http://104.207.38.134:3128
+2024-06-02 17:34:28,539 - INFO - Proxy http://104.207.54.69:3128 is valid.
+2024-06-02 17:34:33,272 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:34:33,272 - INFO - Removed proxy: http://104.207.54.69:3128
+2024-06-02 17:34:43,654 - INFO - Proxy http://104.167.26.221:3128 is valid.
+2024-06-02 17:34:48,399 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:34:48,400 - INFO - Removed proxy: http://104.167.26.221:3128
+2024-06-02 17:34:56,424 - INFO - Proxy http://104.207.34.40:3128 is valid.
+2024-06-02 17:35:01,177 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:35:01,177 - INFO - Removed proxy: http://104.207.34.40:3128
+2024-06-02 17:35:28,010 - INFO - Proxy http://104.207.33.241:3128 is valid.
+2024-06-02 17:35:32,728 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:35:32,728 - INFO - Removed proxy: http://104.207.33.241:3128
+2024-06-02 17:35:39,943 - INFO - Proxy http://104.207.44.150:3128 is valid.
+2024-06-02 17:35:44,693 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:35:44,693 - INFO - Removed proxy: http://104.207.44.150:3128
+2024-06-02 17:35:50,943 - INFO - Proxy http://104.167.29.94:3128 is valid.
+2024-06-02 17:35:55,675 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:35:55,675 - INFO - Removed proxy: http://104.167.29.94:3128
+2024-06-02 17:36:04,882 - INFO - Proxy http://104.207.56.4:3128 is valid.
+2024-06-02 17:36:09,606 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:36:09,606 - INFO - Removed proxy: http://104.207.56.4:3128
+2024-06-02 17:36:32,346 - INFO - Proxy http://104.207.36.167:3128 is valid.
+2024-06-02 17:36:37,068 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:36:37,068 - INFO - Removed proxy: http://104.207.36.167:3128
+2024-06-02 17:36:43,783 - INFO - Proxy http://104.207.37.79:3128 is valid.
+2024-06-02 17:36:48,522 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:36:48,522 - INFO - Removed proxy: http://104.207.37.79:3128
+2024-06-02 17:36:56,317 - INFO - Proxy http://104.207.37.101:3128 is valid.
+2024-06-02 17:37:01,061 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:37:01,061 - INFO - Removed proxy: http://104.207.37.101:3128
+2024-06-02 17:37:08,041 - INFO - Proxy http://104.207.56.29:3128 is valid.
+2024-06-02 17:37:12,761 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:37:12,761 - INFO - Removed proxy: http://104.207.56.29:3128
+2024-06-02 17:37:36,463 - INFO - Proxy http://104.207.35.23:3128 is valid.
+2024-06-02 17:37:41,166 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:37:41,166 - INFO - Removed proxy: http://104.207.35.23:3128
+2024-06-02 17:37:48,292 - INFO - Proxy http://104.207.63.145:3128 is valid.
+2024-06-02 17:37:53,028 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:37:53,028 - INFO - Removed proxy: http://104.207.63.145:3128
+2024-06-02 17:38:01,603 - INFO - Proxy http://104.207.61.206:3128 is valid.
+2024-06-02 17:38:06,372 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:38:06,372 - INFO - Removed proxy: http://104.207.61.206:3128
+2024-06-02 17:38:13,808 - INFO - Proxy http://104.207.40.153:3128 is valid.
+2024-06-02 17:38:18,542 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:38:18,542 - INFO - Removed proxy: http://104.207.40.153:3128
+2024-06-02 17:38:45,471 - INFO - Proxy http://104.167.24.164:3128 is valid.
+2024-06-02 17:38:50,205 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:38:50,205 - INFO - Removed proxy: http://104.167.24.164:3128
+2024-06-02 17:38:57,079 - INFO - Proxy http://104.207.51.218:3128 is valid.
+2024-06-02 17:39:01,775 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:39:01,775 - INFO - Removed proxy: http://104.207.51.218:3128
+2024-06-02 17:39:11,672 - INFO - Proxy http://104.207.37.22:3128 is valid.
+2024-06-02 17:39:16,431 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:39:16,431 - INFO - Removed proxy: http://104.207.37.22:3128
+2024-06-02 17:39:24,566 - INFO - Proxy http://104.167.26.183:3128 is valid.
+2024-06-02 17:39:29,355 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:39:29,355 - INFO - Removed proxy: http://104.167.26.183:3128
+2024-06-02 17:39:52,404 - INFO - Proxy http://104.207.52.178:3128 is valid.
+2024-06-02 17:39:57,139 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:39:57,139 - INFO - Removed proxy: http://104.207.52.178:3128
+2024-06-02 17:40:04,314 - INFO - Proxy http://104.207.63.181:3128 is valid.
+2024-06-02 17:40:09,053 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:40:09,053 - INFO - Removed proxy: http://104.207.63.181:3128
+2024-06-02 17:40:18,002 - INFO - Proxy http://104.167.25.173:3128 is valid.
+2024-06-02 17:40:22,718 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:40:22,718 - INFO - Removed proxy: http://104.167.25.173:3128
+2024-06-02 17:40:29,168 - INFO - Proxy http://104.207.37.87:3128 is valid.
+2024-06-02 17:40:33,922 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:40:33,922 - INFO - Removed proxy: http://104.207.37.87:3128
+2024-06-02 17:40:57,247 - INFO - Proxy http://104.207.36.135:3128 is valid.
+2024-06-02 17:41:02,009 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:41:02,009 - INFO - Removed proxy: http://104.207.36.135:3128
+2024-06-02 17:41:10,854 - INFO - Proxy http://104.207.36.112:3128 is valid.
+2024-06-02 17:41:15,568 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:41:15,568 - INFO - Removed proxy: http://104.207.36.112:3128
+2024-06-02 17:41:25,791 - INFO - Proxy http://104.207.45.127:3128 is valid.
+2024-06-02 17:41:30,533 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:41:30,533 - INFO - Removed proxy: http://104.207.45.127:3128
+2024-06-02 17:41:40,729 - INFO - Proxy http://104.167.27.202:3128 is valid.
+2024-06-02 17:41:45,480 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:41:45,480 - INFO - Removed proxy: http://104.167.27.202:3128
+2024-06-02 17:42:11,185 - INFO - Proxy http://104.207.57.184:3128 is valid.
+2024-06-02 17:42:15,943 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:42:15,944 - INFO - Removed proxy: http://104.207.57.184:3128
+2024-06-02 17:42:23,549 - INFO - Proxy http://104.207.51.184:3128 is valid.
+2024-06-02 17:42:28,273 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:42:28,273 - INFO - Removed proxy: http://104.207.51.184:3128
+2024-06-02 17:42:35,742 - INFO - Proxy http://104.167.27.138:3128 is valid.
+2024-06-02 17:42:40,509 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:42:40,509 - INFO - Removed proxy: http://104.167.27.138:3128
+2024-06-02 17:42:51,474 - INFO - Proxy http://104.207.37.159:3128 is valid.
+2024-06-02 17:42:56,208 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:42:56,208 - INFO - Removed proxy: http://104.207.37.159:3128
+2024-06-02 17:43:18,761 - INFO - Proxy http://104.207.63.41:3128 is valid.
+2024-06-02 17:43:23,486 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:43:23,486 - INFO - Removed proxy: http://104.207.63.41:3128
+2024-06-02 17:43:32,196 - INFO - Proxy http://104.207.58.20:3128 is valid.
+2024-06-02 17:43:36,945 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:43:36,945 - INFO - Removed proxy: http://104.207.58.20:3128
+2024-06-02 17:43:46,453 - INFO - Proxy http://104.167.27.77:3128 is valid.
+2024-06-02 17:43:51,163 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:43:51,164 - INFO - Removed proxy: http://104.167.27.77:3128
+2024-06-02 17:43:59,894 - INFO - Proxy http://104.207.42.61:3128 is valid.
+2024-06-02 17:44:04,672 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:44:04,672 - INFO - Removed proxy: http://104.207.42.61:3128
+2024-06-02 17:44:27,534 - INFO - Proxy http://104.207.50.220:3128 is valid.
+2024-06-02 17:44:32,274 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:44:32,274 - INFO - Removed proxy: http://104.207.50.220:3128
+2024-06-02 17:44:42,077 - INFO - Proxy http://104.167.28.99:3128 is valid.
+2024-06-02 17:44:46,804 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:44:46,805 - INFO - Removed proxy: http://104.167.28.99:3128
+2024-06-02 17:44:55,538 - INFO - Proxy http://104.207.40.169:3128 is valid.
+2024-06-02 17:45:00,246 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:45:00,246 - INFO - Removed proxy: http://104.207.40.169:3128
+2024-06-02 17:45:10,015 - INFO - Proxy http://104.207.43.151:3128 is valid.
+2024-06-02 17:45:14,766 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:45:14,766 - INFO - Removed proxy: http://104.207.43.151:3128
+2024-06-02 17:45:38,013 - INFO - Proxy http://104.167.30.68:3128 is valid.
+2024-06-02 17:45:42,744 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:45:42,744 - INFO - Removed proxy: http://104.167.30.68:3128
+2024-06-02 17:45:51,159 - INFO - Proxy http://104.167.27.72:3128 is valid.
+2024-06-02 17:45:55,893 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:45:55,893 - INFO - Removed proxy: http://104.167.27.72:3128
+2024-06-02 17:46:06,576 - INFO - Proxy http://104.207.60.50:3128 is valid.
+2024-06-02 17:46:11,288 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:46:11,288 - INFO - Removed proxy: http://104.207.60.50:3128
+2024-06-02 17:46:19,474 - INFO - Proxy http://104.207.44.241:3128 is valid.
+2024-06-02 17:46:24,217 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:46:24,217 - INFO - Removed proxy: http://104.207.44.241:3128
+2024-06-02 17:46:48,419 - INFO - Proxy http://104.207.36.154:3128 is valid.
+2024-06-02 17:46:53,140 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:46:53,140 - INFO - Removed proxy: http://104.207.36.154:3128
+2024-06-02 17:47:03,476 - INFO - Proxy http://104.167.28.246:3128 is valid.
+2024-06-02 17:47:08,216 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:47:08,216 - INFO - Removed proxy: http://104.167.28.246:3128
+2024-06-02 17:47:15,822 - INFO - Proxy http://104.207.59.93:3128 is valid.
+2024-06-02 17:47:20,600 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:47:20,600 - INFO - Removed proxy: http://104.207.59.93:3128
+2024-06-02 17:47:30,696 - INFO - Proxy http://104.207.32.145:3128 is valid.
+2024-06-02 17:47:35,447 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:47:35,447 - INFO - Removed proxy: http://104.207.32.145:3128
+2024-06-02 17:47:58,715 - INFO - Proxy http://104.207.50.134:3128 is valid.
+2024-06-02 17:48:03,468 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:48:03,468 - INFO - Removed proxy: http://104.207.50.134:3128
+2024-06-02 17:48:10,793 - INFO - Proxy http://104.207.54.99:3128 is valid.
+2024-06-02 17:48:15,527 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:48:15,527 - INFO - Removed proxy: http://104.207.54.99:3128
+2024-06-02 17:48:22,682 - INFO - Proxy http://104.207.46.213:3128 is valid.
+2024-06-02 17:48:27,428 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:48:27,428 - INFO - Removed proxy: http://104.207.46.213:3128
+2024-06-02 17:48:33,971 - INFO - Proxy http://104.207.47.218:3128 is valid.
+2024-06-02 17:48:38,698 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:48:38,698 - INFO - Removed proxy: http://104.207.47.218:3128
+2024-06-02 17:49:03,085 - INFO - Proxy http://104.207.37.127:3128 is valid.
+2024-06-02 17:49:07,832 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:49:07,832 - INFO - Removed proxy: http://104.207.37.127:3128
+2024-06-02 17:49:16,123 - INFO - Proxy http://104.207.43.237:3128 is valid.
+2024-06-02 17:49:20,879 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:49:20,879 - INFO - Removed proxy: http://104.207.43.237:3128
+2024-06-02 17:49:28,151 - INFO - Proxy http://104.207.53.222:3128 is valid.
+2024-06-02 17:49:32,895 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:49:32,895 - INFO - Removed proxy: http://104.207.53.222:3128
+2024-06-02 17:49:43,828 - INFO - Proxy http://104.207.58.133:3128 is valid.
+2024-06-02 17:49:48,550 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:49:48,550 - INFO - Removed proxy: http://104.207.58.133:3128
+2024-06-02 17:50:13,881 - INFO - Proxy http://104.207.43.119:3128 is valid.
+2024-06-02 17:50:18,613 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:50:28,819 - INFO - Proxy http://104.167.26.235:3128 is valid.
+2024-06-02 17:50:33,557 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:50:42,640 - INFO - Proxy http://104.167.31.222:3128 is valid.
+2024-06-02 17:50:47,373 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:50:58,181 - INFO - Proxy http://104.167.26.72:3128 is valid.
+2024-06-02 17:51:02,940 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:51:29,896 - INFO - Proxy http://104.207.34.211:3128 is valid.
+2024-06-02 17:51:34,614 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:51:45,474 - INFO - Proxy http://104.207.34.92:3128 is valid.
+2024-06-02 17:51:50,183 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:52:00,044 - INFO - Proxy http://104.207.52.205:3128 is valid.
+2024-06-02 17:52:04,782 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:52:11,647 - INFO - Proxy http://104.207.41.203:3128 is valid.
+2024-06-02 17:52:16,366 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:52:40,535 - INFO - Proxy http://104.207.36.133:3128 is valid.
+2024-06-02 17:52:45,264 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:52:51,757 - INFO - Proxy http://104.207.49.194:3128 is valid.
+2024-06-02 17:52:56,500 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:53:06,210 - INFO - Proxy http://104.207.47.78:3128 is valid.
+2024-06-02 17:53:10,959 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:53:20,151 - INFO - Proxy http://104.207.54.82:3128 is valid.
+2024-06-02 17:53:24,886 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:53:51,705 - INFO - Proxy http://104.207.51.11:3128 is valid.
+2024-06-02 17:53:56,425 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:54:05,721 - INFO - Proxy http://104.207.55.92:3128 is valid.
+2024-06-02 17:54:10,458 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:54:19,685 - INFO - Proxy http://104.207.62.121:3128 is valid.
+2024-06-02 17:54:24,393 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:54:35,640 - INFO - Proxy http://104.207.51.130:3128 is valid.
+2024-06-02 17:54:40,396 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:55:07,253 - INFO - Proxy http://104.207.38.20:3128 is valid.
+2024-06-02 17:55:11,983 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:55:21,268 - INFO - Proxy http://104.207.60.157:3128 is valid.
+2024-06-02 17:55:26,006 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:55:32,297 - INFO - Proxy http://104.207.61.76:3128 is valid.
+2024-06-02 17:55:37,034 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:55:47,695 - INFO - Proxy http://104.207.63.110:3128 is valid.
+2024-06-02 17:55:52,434 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:56:14,729 - INFO - Proxy http://104.207.49.86:3128 is valid.
+2024-06-02 17:56:19,455 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:56:28,576 - INFO - Proxy http://104.167.26.35:3128 is valid.
+2024-06-02 17:56:33,345 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:56:39,767 - INFO - Proxy http://104.207.57.75:3128 is valid.
+2024-06-02 17:56:44,520 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:56:53,225 - INFO - Proxy http://104.207.49.227:3128 is valid.
+2024-06-02 17:56:57,976 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:57:25,143 - INFO - Proxy http://104.207.48.48:3128 is valid.
+2024-06-02 17:57:29,880 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:57:37,271 - INFO - Proxy http://104.207.40.80:3128 is valid.
+2024-06-02 17:57:42,005 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:57:53,028 - INFO - Proxy http://104.207.52.94:3128 is valid.
+2024-06-02 17:57:57,794 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:58:04,488 - INFO - Proxy http://104.167.30.133:3128 is valid.
+2024-06-02 17:58:09,213 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:58:33,658 - INFO - Proxy http://104.207.42.35:3128 is valid.
+2024-06-02 17:58:38,400 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:58:47,060 - INFO - Proxy http://104.207.56.210:3128 is valid.
+2024-06-02 17:58:51,801 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:58:59,366 - INFO - Proxy http://104.207.49.249:3128 is valid.
+2024-06-02 17:59:04,087 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:59:11,571 - INFO - Proxy http://104.207.32.52:3128 is valid.
+2024-06-02 17:59:16,335 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:59:40,834 - INFO - Proxy http://104.207.49.47:3128 is valid.
+2024-06-02 17:59:45,573 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 17:59:54,026 - INFO - Proxy http://104.207.54.42:3128 is valid.
+2024-06-02 17:59:58,767 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:00:09,007 - INFO - Proxy http://104.207.54.94:3128 is valid.
+2024-06-02 18:00:13,721 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:00:24,469 - INFO - Proxy http://104.167.31.102:3128 is valid.
+2024-06-02 18:00:29,213 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:00:54,236 - INFO - Proxy http://104.207.55.199:3128 is valid.
+2024-06-02 18:00:58,997 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:01:08,972 - INFO - Proxy http://104.207.58.61:3128 is valid.
+2024-06-02 18:01:13,683 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:01:23,644 - INFO - Proxy http://104.207.45.213:3128 is valid.
+2024-06-02 18:01:28,366 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:01:34,701 - INFO - Proxy http://104.207.46.92:3128 is valid.
+2024-06-02 18:01:39,448 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:02:02,013 - INFO - Proxy http://104.167.24.41:3128 is valid.
+2024-06-02 18:02:06,754 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:02:15,048 - INFO - Proxy http://104.207.53.102:3128 is valid.
+2024-06-02 18:02:19,795 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:02:27,876 - INFO - Proxy http://104.207.49.102:3128 is valid.
+2024-06-02 18:02:32,625 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:02:42,067 - INFO - Proxy http://104.167.29.153:3128 is valid.
+2024-06-02 18:02:46,806 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:03:11,418 - INFO - Proxy http://104.207.38.134:3128 is valid.
+2024-06-02 18:03:16,128 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:03:23,473 - INFO - Proxy http://104.207.54.69:3128 is valid.
+2024-06-02 18:03:28,203 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:03:38,985 - INFO - Proxy http://104.167.26.221:3128 is valid.
+2024-06-02 18:03:43,746 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:03:53,969 - INFO - Proxy http://104.207.34.40:3128 is valid.
+2024-06-02 18:03:58,721 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:04:23,100 - INFO - Proxy http://104.207.33.241:3128 is valid.
+2024-06-02 18:04:27,824 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:04:35,524 - INFO - Proxy http://104.207.44.150:3128 is valid.
+2024-06-02 18:04:40,258 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:04:50,978 - INFO - Proxy http://104.167.29.94:3128 is valid.
+2024-06-02 18:04:55,735 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:05:02,602 - INFO - Proxy http://104.207.56.4:3128 is valid.
+2024-06-02 18:05:07,324 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:05:33,698 - INFO - Proxy http://104.207.36.167:3128 is valid.
+2024-06-02 18:05:38,405 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:05:46,834 - INFO - Proxy http://104.207.37.79:3128 is valid.
+2024-06-02 18:05:51,580 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:06:01,695 - INFO - Proxy http://104.207.37.101:3128 is valid.
+2024-06-02 18:06:06,413 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:06:14,507 - INFO - Proxy http://104.207.56.29:3128 is valid.
+2024-06-02 18:06:19,241 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:06:43,796 - INFO - Proxy http://104.207.35.23:3128 is valid.
+2024-06-02 18:06:48,545 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:06:57,761 - INFO - Proxy http://104.207.63.145:3128 is valid.
+2024-06-02 18:07:02,465 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:07:13,174 - INFO - Proxy http://104.207.61.206:3128 is valid.
+2024-06-02 18:07:17,910 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:07:27,998 - INFO - Proxy http://104.207.40.153:3128 is valid.
+2024-06-02 18:07:32,760 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:07:57,011 - INFO - Proxy http://104.167.24.164:3128 is valid.
+2024-06-02 18:08:01,743 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:08:09,979 - INFO - Proxy http://104.207.51.218:3128 is valid.
+2024-06-02 18:08:14,707 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:08:25,818 - INFO - Proxy http://104.207.37.22:3128 is valid.
+2024-06-02 18:08:30,537 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:08:40,535 - INFO - Proxy http://104.167.26.183:3128 is valid.
+2024-06-02 18:08:45,291 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:09:11,141 - INFO - Proxy http://104.207.52.178:3128 is valid.
+2024-06-02 18:09:15,876 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:09:26,458 - INFO - Proxy http://104.207.63.181:3128 is valid.
+2024-06-02 18:09:31,201 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:09:39,416 - INFO - Proxy http://104.167.25.173:3128 is valid.
+2024-06-02 18:09:44,139 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:09:52,268 - INFO - Proxy http://104.207.37.87:3128 is valid.
+2024-06-02 18:09:57,038 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:10:20,636 - INFO - Proxy http://104.207.36.135:3128 is valid.
+2024-06-02 18:10:25,378 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:10:32,983 - INFO - Proxy http://104.207.36.112:3128 is valid.
+2024-06-02 18:10:37,738 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:10:47,395 - INFO - Proxy http://104.207.45.127:3128 is valid.
+2024-06-02 18:10:52,141 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:10:59,175 - INFO - Proxy http://104.167.27.202:3128 is valid.
+2024-06-02 18:11:03,915 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:11:29,152 - INFO - Proxy http://104.207.57.184:3128 is valid.
+2024-06-02 18:11:33,893 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:11:40,861 - INFO - Proxy http://104.207.51.184:3128 is valid.
+2024-06-02 18:11:45,608 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:11:55,888 - INFO - Proxy http://104.167.27.138:3128 is valid.
+2024-06-02 18:12:00,662 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:12:11,499 - INFO - Proxy http://104.207.37.159:3128 is valid.
+2024-06-02 18:12:16,253 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:12:40,282 - INFO - Proxy http://104.207.63.41:3128 is valid.
+2024-06-02 18:12:45,011 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:12:53,221 - INFO - Proxy http://104.207.58.20:3128 is valid.
+2024-06-02 18:12:57,944 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:13:05,122 - INFO - Proxy http://104.167.27.77:3128 is valid.
+2024-06-02 18:13:09,867 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:13:15,985 - INFO - Proxy http://104.207.42.61:3128 is valid.
+2024-06-02 18:13:20,735 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:13:43,077 - INFO - Proxy http://104.207.50.220:3128 is valid.
+2024-06-02 18:13:47,844 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:13:54,860 - INFO - Proxy http://104.167.28.99:3128 is valid.
+2024-06-02 18:13:59,606 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:14:06,257 - INFO - Proxy http://104.207.40.169:3128 is valid.
+2024-06-02 18:14:10,986 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:14:21,567 - INFO - Proxy http://104.207.43.151:3128 is valid.
+2024-06-02 18:14:26,297 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:14:51,570 - INFO - Proxy http://104.167.30.68:3128 is valid.
+2024-06-02 18:14:56,308 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:15:02,728 - INFO - Proxy http://104.167.27.72:3128 is valid.
+2024-06-02 18:15:07,459 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:15:16,965 - INFO - Proxy http://104.207.60.50:3128 is valid.
+2024-06-02 18:15:21,691 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:15:30,558 - INFO - Proxy http://104.207.44.241:3128 is valid.
+2024-06-02 18:15:35,305 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:16:01,046 - INFO - Proxy http://104.207.36.154:3128 is valid.
+2024-06-02 18:16:05,780 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:16:15,615 - INFO - Proxy http://104.167.28.246:3128 is valid.
+2024-06-02 18:16:20,344 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:16:31,069 - INFO - Proxy http://104.207.59.93:3128 is valid.
+2024-06-02 18:16:35,808 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:16:43,925 - INFO - Proxy http://104.207.32.145:3128 is valid.
+2024-06-02 18:16:48,674 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:17:13,592 - INFO - Proxy http://104.207.50.134:3128 is valid.
+2024-06-02 18:17:18,350 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:17:26,292 - INFO - Proxy http://104.207.54.99:3128 is valid.
+2024-06-02 18:17:31,047 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:17:39,611 - INFO - Proxy http://104.207.46.213:3128 is valid.
+2024-06-02 18:17:44,350 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:17:53,991 - INFO - Proxy http://104.207.47.218:3128 is valid.
+2024-06-02 18:17:58,726 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:18:25,698 - INFO - Proxy http://104.207.37.127:3128 is valid.
+2024-06-02 18:18:30,434 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:18:39,091 - INFO - Proxy http://104.207.43.237:3128 is valid.
+2024-06-02 18:18:43,853 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:18:52,507 - INFO - Proxy http://104.207.53.222:3128 is valid.
+2024-06-02 18:18:57,243 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:19:08,176 - INFO - Proxy http://104.207.58.133:3128 is valid.
+2024-06-02 18:19:12,908 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:19:38,179 - INFO - Proxy http://104.207.43.119:3128 is valid.
+2024-06-02 18:19:42,901 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:19:53,002 - INFO - Proxy http://104.167.26.235:3128 is valid.
+2024-06-02 18:19:57,691 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:20:08,287 - INFO - Proxy http://104.167.31.222:3128 is valid.
+2024-06-02 18:20:13,027 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:20:22,129 - INFO - Proxy http://104.167.26.72:3128 is valid.
+2024-06-02 18:20:26,877 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:20:52,730 - INFO - Proxy http://104.207.34.211:3128 is valid.
+2024-06-02 18:20:57,464 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:21:07,621 - INFO - Proxy http://104.207.34.92:3128 is valid.
+2024-06-02 18:21:12,382 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:21:22,889 - INFO - Proxy http://104.207.52.205:3128 is valid.
+2024-06-02 18:21:27,589 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:21:37,480 - INFO - Proxy http://104.207.41.203:3128 is valid.
+2024-06-02 18:21:42,240 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:22:07,698 - INFO - Proxy http://104.207.36.133:3128 is valid.
+2024-06-02 18:22:12,427 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:22:20,332 - INFO - Proxy http://104.207.49.194:3128 is valid.
+2024-06-02 18:22:25,074 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:22:31,233 - INFO - Proxy http://104.207.47.78:3128 is valid.
+2024-06-02 18:22:35,973 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:22:43,139 - INFO - Proxy http://104.207.54.82:3128 is valid.
+2024-06-02 18:22:47,892 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:23:13,355 - INFO - Proxy http://104.207.51.11:3128 is valid.
+2024-06-02 18:23:18,094 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:23:26,765 - INFO - Proxy http://104.207.55.92:3128 is valid.
+2024-06-02 18:23:31,495 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:23:41,123 - INFO - Proxy http://104.207.62.121:3128 is valid.
+2024-06-02 18:23:45,881 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:23:52,610 - INFO - Proxy http://104.207.51.130:3128 is valid.
+2024-06-02 18:23:57,347 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:24:22,804 - INFO - Proxy http://104.207.38.20:3128 is valid.
+2024-06-02 18:24:27,552 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:24:36,331 - INFO - Proxy http://104.207.60.157:3128 is valid.
+2024-06-02 18:24:41,112 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:24:48,434 - INFO - Proxy http://104.207.61.76:3128 is valid.
+2024-06-02 18:24:53,137 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:25:04,122 - INFO - Proxy http://104.207.63.110:3128 is valid.
+2024-06-02 18:25:08,881 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:25:35,739 - INFO - Proxy http://104.207.49.86:3128 is valid.
+2024-06-02 18:25:40,480 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:25:50,945 - INFO - Proxy http://104.167.26.35:3128 is valid.
+2024-06-02 18:25:55,660 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:26:03,311 - INFO - Proxy http://104.207.57.75:3128 is valid.
+2024-06-02 18:26:08,066 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:26:16,303 - INFO - Proxy http://104.207.49.227:3128 is valid.
+2024-06-02 18:26:21,051 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:26:46,728 - INFO - Proxy http://104.207.48.48:3128 is valid.
+2024-06-02 18:26:51,494 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:27:00,186 - INFO - Proxy http://104.207.40.80:3128 is valid.
+2024-06-02 18:27:04,935 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:27:13,028 - INFO - Proxy http://104.207.52.94:3128 is valid.
+2024-06-02 18:27:17,768 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:27:25,239 - INFO - Proxy http://104.167.30.133:3128 is valid.
+2024-06-02 18:27:29,971 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:27:55,746 - INFO - Proxy http://104.207.42.35:3128 is valid.
+2024-06-02 18:28:00,468 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:28:07,128 - INFO - Proxy http://104.207.56.210:3128 is valid.
+2024-06-02 18:28:11,855 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:28:22,751 - INFO - Proxy http://104.207.49.249:3128 is valid.
+2024-06-02 18:28:27,493 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:28:33,975 - INFO - Proxy http://104.207.32.52:3128 is valid.
+2024-06-02 18:28:38,697 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:29:01,887 - INFO - Proxy http://104.207.49.47:3128 is valid.
+2024-06-02 18:29:06,632 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:29:17,140 - INFO - Proxy http://104.207.54.42:3128 is valid.
+2024-06-02 18:29:21,908 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:29:29,542 - INFO - Proxy http://104.207.54.94:3128 is valid.
+2024-06-02 18:29:34,254 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:29:44,016 - INFO - Proxy http://104.167.31.102:3128 is valid.
+2024-06-02 18:29:48,722 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:30:12,747 - INFO - Proxy http://104.207.55.199:3128 is valid.
+2024-06-02 18:30:17,486 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:30:25,583 - INFO - Proxy http://104.207.58.61:3128 is valid.
+2024-06-02 18:30:30,335 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:30:40,643 - INFO - Proxy http://104.207.45.213:3128 is valid.
+2024-06-02 18:30:45,395 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:30:55,370 - INFO - Proxy http://104.207.46.92:3128 is valid.
+2024-06-02 18:31:00,093 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:31:26,337 - INFO - Proxy http://104.167.24.41:3128 is valid.
+2024-06-02 18:31:31,070 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:31:40,729 - INFO - Proxy http://104.207.53.102:3128 is valid.
+2024-06-02 18:31:45,484 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:31:54,459 - INFO - Proxy http://104.207.49.102:3128 is valid.
+2024-06-02 18:31:59,148 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:32:08,494 - INFO - Proxy http://104.167.29.153:3128 is valid.
+2024-06-02 18:32:13,228 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:32:36,488 - INFO - Proxy http://104.207.38.134:3128 is valid.
+2024-06-02 18:32:41,211 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:32:49,809 - INFO - Proxy http://104.207.54.69:3128 is valid.
+2024-06-02 18:32:54,526 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:33:03,551 - INFO - Proxy http://104.167.26.221:3128 is valid.
+2024-06-02 18:33:08,268 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:33:15,097 - INFO - Proxy http://104.207.34.40:3128 is valid.
+2024-06-02 18:33:19,830 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:33:46,317 - INFO - Proxy http://104.207.33.241:3128 is valid.
+2024-06-02 18:33:51,099 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:33:58,274 - INFO - Proxy http://104.207.44.150:3128 is valid.
+2024-06-02 18:34:03,019 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:34:14,024 - INFO - Proxy http://104.167.29.94:3128 is valid.
+2024-06-02 18:34:18,772 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:34:27,013 - INFO - Proxy http://104.207.56.4:3128 is valid.
+2024-06-02 18:34:31,745 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:34:55,556 - INFO - Proxy http://104.207.36.167:3128 is valid.
+2024-06-02 18:35:00,307 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:35:07,593 - INFO - Proxy http://104.207.37.79:3128 is valid.
+2024-06-02 18:35:12,335 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:35:19,378 - INFO - Proxy http://104.207.37.101:3128 is valid.
+2024-06-02 18:35:24,103 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:35:31,057 - INFO - Proxy http://104.207.56.29:3128 is valid.
+2024-06-02 18:35:35,774 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:35:59,597 - INFO - Proxy http://104.207.35.23:3128 is valid.
+2024-06-02 18:36:04,337 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:36:15,253 - INFO - Proxy http://104.207.63.145:3128 is valid.
+2024-06-02 18:36:19,990 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:36:26,962 - INFO - Proxy http://104.207.61.206:3128 is valid.
+2024-06-02 18:36:31,712 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:36:40,488 - INFO - Proxy http://104.207.40.153:3128 is valid.
+2024-06-02 18:36:45,241 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:37:12,261 - INFO - Proxy http://104.167.24.164:3128 is valid.
+2024-06-02 18:37:16,985 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:37:23,145 - INFO - Proxy http://104.207.51.218:3128 is valid.
+2024-06-02 18:37:27,899 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:37:34,996 - INFO - Proxy http://104.207.37.22:3128 is valid.
+2024-06-02 18:37:39,738 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:37:48,613 - INFO - Proxy http://104.167.26.183:3128 is valid.
+2024-06-02 18:37:53,363 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:38:16,275 - INFO - Proxy http://104.207.52.178:3128 is valid.
+2024-06-02 18:38:21,014 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:38:27,215 - INFO - Proxy http://104.207.63.181:3128 is valid.
+2024-06-02 18:38:31,950 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:38:41,806 - INFO - Proxy http://104.167.25.173:3128 is valid.
+2024-06-02 18:38:46,536 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:38:57,239 - INFO - Proxy http://104.207.37.87:3128 is valid.
+2024-06-02 18:39:01,994 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:39:29,181 - INFO - Proxy http://104.207.36.135:3128 is valid.
+2024-06-02 18:39:33,921 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:39:40,792 - INFO - Proxy http://104.207.36.112:3128 is valid.
+2024-06-02 18:39:45,539 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:39:52,955 - INFO - Proxy http://104.207.45.127:3128 is valid.
+2024-06-02 18:39:57,691 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:40:05,376 - INFO - Proxy http://104.167.27.202:3128 is valid.
+2024-06-02 18:40:10,085 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:40:36,689 - INFO - Proxy http://104.207.57.184:3128 is valid.
+2024-06-02 18:40:41,428 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:40:51,651 - INFO - Proxy http://104.207.51.184:3128 is valid.
+2024-06-02 18:40:56,402 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:41:04,816 - INFO - Proxy http://104.167.27.138:3128 is valid.
+2024-06-02 18:41:09,558 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:41:17,462 - INFO - Proxy http://104.207.37.159:3128 is valid.
+2024-06-02 18:41:22,171 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:41:46,104 - INFO - Proxy http://104.207.63.41:3128 is valid.
+2024-06-02 18:41:50,826 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:41:59,266 - INFO - Proxy http://104.207.58.20:3128 is valid.
+2024-06-02 18:42:04,011 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:42:12,503 - INFO - Proxy http://104.167.27.77:3128 is valid.
+2024-06-02 18:42:17,244 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:42:23,386 - INFO - Proxy http://104.207.42.61:3128 is valid.
+2024-06-02 18:42:28,116 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:42:54,553 - INFO - Proxy http://104.207.50.220:3128 is valid.
+2024-06-02 18:42:59,285 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:43:07,436 - INFO - Proxy http://104.167.28.99:3128 is valid.
+2024-06-02 18:43:12,165 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:43:22,243 - INFO - Proxy http://104.207.40.169:3128 is valid.
+2024-06-02 18:43:26,970 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:43:34,249 - INFO - Proxy http://104.207.43.151:3128 is valid.
+2024-06-02 18:43:39,003 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:44:01,532 - INFO - Proxy http://104.167.30.68:3128 is valid.
+2024-06-02 18:44:06,287 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:44:16,179 - INFO - Proxy http://104.167.27.72:3128 is valid.
+2024-06-02 18:44:20,923 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:44:30,067 - INFO - Proxy http://104.207.60.50:3128 is valid.
+2024-06-02 18:44:34,793 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:44:41,938 - INFO - Proxy http://104.207.44.241:3128 is valid.
+2024-06-02 18:44:46,648 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:45:13,228 - INFO - Proxy http://104.207.36.154:3128 is valid.
+2024-06-02 18:45:17,982 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:45:27,086 - INFO - Proxy http://104.167.28.246:3128 is valid.
+2024-06-02 18:45:31,843 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:45:40,333 - INFO - Proxy http://104.207.59.93:3128 is valid.
+2024-06-02 18:45:45,094 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:45:51,446 - INFO - Proxy http://104.207.32.145:3128 is valid.
+2024-06-02 18:45:56,176 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:46:19,919 - INFO - Proxy http://104.207.50.134:3128 is valid.
+2024-06-02 18:46:24,682 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:46:34,539 - INFO - Proxy http://104.207.54.99:3128 is valid.
+2024-06-02 18:46:39,291 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:46:45,313 - INFO - Proxy http://104.207.46.213:3128 is valid.
+2024-06-02 18:46:50,077 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:46:56,382 - INFO - Proxy http://104.207.47.218:3128 is valid.
+2024-06-02 18:47:01,130 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:47:24,943 - INFO - Proxy http://104.207.37.127:3128 is valid.
+2024-06-02 18:47:29,712 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:47:38,550 - INFO - Proxy http://104.207.43.237:3128 is valid.
+2024-06-02 18:47:43,300 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:47:51,884 - INFO - Proxy http://104.207.53.222:3128 is valid.
+2024-06-02 18:47:56,626 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:48:06,356 - INFO - Proxy http://104.207.58.133:3128 is valid.
+2024-06-02 18:48:11,085 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:48:35,564 - INFO - Proxy http://104.207.43.119:3128 is valid.
+2024-06-02 18:48:40,313 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:48:49,737 - INFO - Proxy http://104.167.26.235:3128 is valid.
+2024-06-02 18:48:54,453 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:49:05,249 - INFO - Proxy http://104.167.31.222:3128 is valid.
+2024-06-02 18:49:10,000 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:49:19,277 - INFO - Proxy http://104.167.26.72:3128 is valid.
+2024-06-02 18:49:24,022 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:49:49,332 - INFO - Proxy http://104.207.34.211:3128 is valid.
+2024-06-02 18:49:54,096 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:50:02,635 - INFO - Proxy http://104.207.34.92:3128 is valid.
+2024-06-02 18:50:07,374 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:50:17,346 - INFO - Proxy http://104.207.52.205:3128 is valid.
+2024-06-02 18:50:22,059 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:50:30,627 - INFO - Proxy http://104.207.41.203:3128 is valid.
+2024-06-02 18:50:47,598 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:50:56,046 - INFO - Proxy http://104.207.36.133:3128 is valid.
+2024-06-02 18:51:00,773 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:51:09,470 - INFO - Proxy http://104.207.49.194:3128 is valid.
+2024-06-02 18:51:14,180 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:51:24,632 - INFO - Proxy http://104.207.47.78:3128 is valid.
+2024-06-02 18:51:29,340 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:51:39,680 - INFO - Proxy http://104.207.54.82:3128 is valid.
+2024-06-02 18:51:44,441 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:52:11,422 - INFO - Proxy http://104.207.51.11:3128 is valid.
+2024-06-02 18:52:16,154 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:52:25,111 - INFO - Proxy http://104.207.55.92:3128 is valid.
+2024-06-02 18:52:29,820 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:52:36,662 - INFO - Proxy http://104.207.62.121:3128 is valid.
+2024-06-02 18:52:41,368 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:52:50,596 - INFO - Proxy http://104.207.51.130:3128 is valid.
+2024-06-02 18:52:55,332 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:53:21,642 - INFO - Proxy http://104.207.38.20:3128 is valid.
+2024-06-02 18:53:26,369 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:53:36,676 - INFO - Proxy http://104.207.60.157:3128 is valid.
+2024-06-02 18:53:41,406 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:53:51,944 - INFO - Proxy http://104.207.61.76:3128 is valid.
+2024-06-02 18:53:56,694 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:54:05,678 - INFO - Proxy http://104.207.63.110:3128 is valid.
+2024-06-02 18:54:10,427 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:54:34,359 - INFO - Proxy http://104.207.49.86:3128 is valid.
+2024-06-02 18:54:39,099 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:54:49,983 - INFO - Proxy http://104.167.26.35:3128 is valid.
+2024-06-02 18:54:55,712 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:55:02,317 - INFO - Proxy http://104.207.57.75:3128 is valid.
+2024-06-02 18:55:07,078 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:55:16,717 - INFO - Proxy http://104.207.49.227:3128 is valid.
+2024-06-02 18:55:21,441 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:55:45,462 - INFO - Proxy http://104.207.48.48:3128 is valid.
+2024-06-02 18:55:50,178 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:55:56,999 - INFO - Proxy http://104.207.40.80:3128 is valid.
+2024-06-02 18:56:01,731 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:56:12,992 - INFO - Proxy http://104.207.52.94:3128 is valid.
+2024-06-02 18:56:17,718 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:56:27,324 - INFO - Proxy http://104.167.30.133:3128 is valid.
+2024-06-02 18:56:32,070 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:56:57,776 - INFO - Proxy http://104.207.42.35:3128 is valid.
+2024-06-02 18:57:02,517 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:57:12,159 - INFO - Proxy http://104.207.56.210:3128 is valid.
+2024-06-02 18:57:16,894 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:57:22,975 - INFO - Proxy http://104.207.49.249:3128 is valid.
+2024-06-02 18:57:27,697 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:57:38,093 - INFO - Proxy http://104.207.32.52:3128 is valid.
+2024-06-02 18:57:42,826 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:58:09,146 - INFO - Proxy http://104.207.49.47:3128 is valid.
+2024-06-02 18:58:13,886 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:58:21,042 - INFO - Proxy http://104.207.54.42:3128 is valid.
+2024-06-02 18:58:25,800 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:58:33,427 - INFO - Proxy http://104.207.54.94:3128 is valid.
+2024-06-02 18:58:38,155 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:58:47,372 - INFO - Proxy http://104.167.31.102:3128 is valid.
+2024-06-02 18:58:52,123 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:59:19,085 - INFO - Proxy http://104.207.55.199:3128 is valid.
+2024-06-02 18:59:23,816 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:59:31,814 - INFO - Proxy http://104.207.58.61:3128 is valid.
+2024-06-02 18:59:36,559 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:59:44,754 - INFO - Proxy http://104.207.45.213:3128 is valid.
+2024-06-02 18:59:49,483 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 18:59:58,821 - INFO - Proxy http://104.207.46.92:3128 is valid.
+2024-06-02 19:00:03,565 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:00:28,301 - INFO - Proxy http://104.167.24.41:3128 is valid.
+2024-06-02 19:00:33,044 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:00:39,773 - INFO - Proxy http://104.207.53.102:3128 is valid.
+2024-06-02 19:00:44,504 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:00:54,843 - INFO - Proxy http://104.207.49.102:3128 is valid.
+2024-06-02 19:00:59,612 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:01:10,182 - INFO - Proxy http://104.167.29.153:3128 is valid.
+2024-06-02 19:01:14,946 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:01:42,088 - INFO - Proxy http://104.207.38.134:3128 is valid.
+2024-06-02 19:01:46,833 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:01:53,607 - INFO - Proxy http://104.207.54.69:3128 is valid.
+2024-06-02 19:01:58,340 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:02:06,462 - INFO - Proxy http://104.167.26.221:3128 is valid.
+2024-06-02 19:02:11,197 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:02:18,140 - INFO - Proxy http://104.207.34.40:3128 is valid.
+2024-06-02 19:02:22,868 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:02:49,043 - INFO - Proxy http://104.207.33.241:3128 is valid.
+2024-06-02 19:02:53,769 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:03:03,567 - INFO - Proxy http://104.207.44.150:3128 is valid.
+2024-06-02 19:03:08,313 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:03:14,571 - INFO - Proxy http://104.167.29.94:3128 is valid.
+2024-06-02 19:03:19,295 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:03:25,545 - INFO - Proxy http://104.207.56.4:3128 is valid.
+2024-06-02 19:03:30,304 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:03:59,230 - INFO - Proxy http://104.207.36.167:3128 is valid.
+2024-06-02 19:04:03,977 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:04:13,002 - INFO - Proxy http://104.207.37.79:3128 is valid.
+2024-06-02 19:04:17,752 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:04:27,478 - INFO - Proxy http://104.207.37.101:3128 is valid.
+2024-06-02 19:04:32,192 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:04:40,014 - INFO - Proxy http://104.207.56.29:3128 is valid.
+2024-06-02 19:04:44,734 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:05:09,069 - INFO - Proxy http://104.207.35.23:3128 is valid.
+2024-06-02 19:05:13,814 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:05:22,210 - INFO - Proxy http://104.207.63.145:3128 is valid.
+2024-06-02 19:05:26,957 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:05:34,646 - INFO - Proxy http://104.207.61.206:3128 is valid.
+2024-06-02 19:05:39,353 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:05:46,651 - INFO - Proxy http://104.207.40.153:3128 is valid.
+2024-06-02 19:05:51,394 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:06:15,272 - INFO - Proxy http://104.167.24.164:3128 is valid.
+2024-06-02 19:06:20,009 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:06:27,545 - INFO - Proxy http://104.207.51.218:3128 is valid.
+2024-06-02 19:06:32,279 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:06:42,105 - INFO - Proxy http://104.207.37.22:3128 is valid.
+2024-06-02 19:06:46,838 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:06:56,430 - INFO - Proxy http://104.167.26.183:3128 is valid.
+2024-06-02 19:07:01,196 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:07:26,306 - INFO - Proxy http://104.207.52.178:3128 is valid.
+2024-06-02 19:07:31,062 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:07:37,745 - INFO - Proxy http://104.207.63.181:3128 is valid.
+2024-06-02 19:07:42,462 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:07:49,007 - INFO - Proxy http://104.167.25.173:3128 is valid.
+2024-06-02 19:07:53,741 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:08:02,176 - INFO - Proxy http://104.207.37.87:3128 is valid.
+2024-06-02 19:08:06,927 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:08:31,652 - INFO - Proxy http://104.207.36.135:3128 is valid.
+2024-06-02 19:08:36,408 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:08:44,857 - INFO - Proxy http://104.207.36.112:3128 is valid.
+2024-06-02 19:08:49,599 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:08:58,547 - INFO - Proxy http://104.207.45.127:3128 is valid.
+2024-06-02 19:09:03,270 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:09:14,152 - INFO - Proxy http://104.167.27.202:3128 is valid.
+2024-06-02 19:09:18,915 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:09:44,751 - INFO - Proxy http://104.207.57.184:3128 is valid.
+2024-06-02 19:09:49,506 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:09:55,653 - INFO - Proxy http://104.207.51.184:3128 is valid.
+2024-06-02 19:10:00,354 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:10:08,424 - INFO - Proxy http://104.167.27.138:3128 is valid.
+2024-06-02 19:10:13,165 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:10:24,190 - INFO - Proxy http://104.207.37.159:3128 is valid.
+2024-06-02 19:10:28,945 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:10:54,335 - INFO - Proxy http://104.207.63.41:3128 is valid.
+2024-06-02 19:10:59,077 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:11:06,263 - INFO - Proxy http://104.207.58.20:3128 is valid.
+2024-06-02 19:11:11,010 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:11:18,114 - INFO - Proxy http://104.167.27.77:3128 is valid.
+2024-06-02 19:11:22,840 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:11:31,431 - INFO - Proxy http://104.207.42.61:3128 is valid.
+2024-06-02 19:11:36,157 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:12:02,307 - INFO - Proxy http://104.207.50.220:3128 is valid.
+2024-06-02 19:12:07,029 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:12:13,718 - INFO - Proxy http://104.167.28.99:3128 is valid.
+2024-06-02 19:12:18,445 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:12:28,095 - INFO - Proxy http://104.207.40.169:3128 is valid.
+2024-06-02 19:12:32,852 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:12:40,976 - INFO - Proxy http://104.207.43.151:3128 is valid.
+2024-06-02 19:12:45,712 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:13:11,777 - INFO - Proxy http://104.167.30.68:3128 is valid.
+2024-06-02 19:13:16,522 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:13:22,538 - INFO - Proxy http://104.167.27.72:3128 is valid.
+2024-06-02 19:13:27,267 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:13:35,985 - INFO - Proxy http://104.207.60.50:3128 is valid.
+2024-06-02 19:13:40,722 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:13:47,423 - INFO - Proxy http://104.207.44.241:3128 is valid.
+2024-06-02 19:13:52,136 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:14:14,910 - INFO - Proxy http://104.207.36.154:3128 is valid.
+2024-06-02 19:14:19,632 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:14:29,820 - INFO - Proxy http://104.167.28.246:3128 is valid.
+2024-06-02 19:14:34,583 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:14:45,481 - INFO - Proxy http://104.207.59.93:3128 is valid.
+2024-06-02 19:14:50,246 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:15:01,037 - INFO - Proxy http://104.207.32.145:3128 is valid.
+2024-06-02 19:15:05,780 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:15:28,509 - INFO - Proxy http://104.207.50.134:3128 is valid.
+2024-06-02 19:15:33,248 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:15:41,181 - INFO - Proxy http://104.207.54.99:3128 is valid.
+2024-06-02 19:15:45,853 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:15:56,880 - INFO - Proxy http://104.207.46.213:3128 is valid.
+2024-06-02 19:16:01,614 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:16:09,709 - INFO - Proxy http://104.207.47.218:3128 is valid.
+2024-06-02 19:16:14,457 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:16:37,732 - INFO - Proxy http://104.207.37.127:3128 is valid.
+2024-06-02 19:16:42,463 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:16:49,748 - INFO - Proxy http://104.207.43.237:3128 is valid.
+2024-06-02 19:16:54,486 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:17:01,403 - INFO - Proxy http://104.207.53.222:3128 is valid.
+2024-06-02 19:17:06,162 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:17:14,528 - INFO - Proxy http://104.207.58.133:3128 is valid.
+2024-06-02 19:17:19,274 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:17:46,135 - INFO - Proxy http://104.207.43.119:3128 is valid.
+2024-06-02 19:17:50,849 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:18:01,773 - INFO - Proxy http://104.167.26.235:3128 is valid.
+2024-06-02 19:18:06,495 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:18:15,902 - INFO - Proxy http://104.167.31.222:3128 is valid.
+2024-06-02 19:18:20,632 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:18:27,695 - INFO - Proxy http://104.167.26.72:3128 is valid.
+2024-06-02 19:18:32,467 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:18:57,410 - INFO - Proxy http://104.207.34.211:3128 is valid.
+2024-06-02 19:19:02,150 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:19:11,866 - INFO - Proxy http://104.207.34.92:3128 is valid.
+2024-06-02 19:19:16,613 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:19:24,698 - INFO - Proxy http://104.207.52.205:3128 is valid.
+2024-06-02 19:19:29,430 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:19:39,393 - INFO - Proxy http://104.207.41.203:3128 is valid.
+2024-06-02 19:19:44,120 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:20:07,041 - INFO - Proxy http://104.207.36.133:3128 is valid.
+2024-06-02 19:20:11,804 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:20:22,498 - INFO - Proxy http://104.207.49.194:3128 is valid.
+2024-06-02 19:20:27,219 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:20:37,967 - INFO - Proxy http://104.207.47.78:3128 is valid.
+2024-06-02 19:20:42,697 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:20:51,170 - INFO - Proxy http://104.207.54.82:3128 is valid.
+2024-06-02 19:20:55,886 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:21:21,425 - INFO - Proxy http://104.207.51.11:3128 is valid.
+2024-06-02 19:21:26,134 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:21:36,296 - INFO - Proxy http://104.207.55.92:3128 is valid.
+2024-06-02 19:21:41,009 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:21:48,165 - INFO - Proxy http://104.207.62.121:3128 is valid.
+2024-06-02 19:21:52,916 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:21:59,356 - INFO - Proxy http://104.207.51.130:3128 is valid.
+2024-06-02 19:22:04,081 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:22:29,922 - INFO - Proxy http://104.207.38.20:3128 is valid.
+2024-06-02 19:22:34,636 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:22:44,225 - INFO - Proxy http://104.207.60.157:3128 is valid.
+2024-06-02 19:22:48,946 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:22:57,028 - INFO - Proxy http://104.207.61.76:3128 is valid.
+2024-06-02 19:23:01,739 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:23:10,048 - INFO - Proxy http://104.207.63.110:3128 is valid.
+2024-06-02 19:23:14,792 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:23:37,907 - INFO - Proxy http://104.207.49.86:3128 is valid.
+2024-06-02 19:23:42,628 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:23:53,495 - INFO - Proxy http://104.167.26.35:3128 is valid.
+2024-06-02 19:23:58,247 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:24:07,375 - INFO - Proxy http://104.207.57.75:3128 is valid.
+2024-06-02 19:24:12,127 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:24:21,852 - INFO - Proxy http://104.207.49.227:3128 is valid.
+2024-06-02 19:24:26,622 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:24:49,428 - INFO - Proxy http://104.207.48.48:3128 is valid.
+2024-06-02 19:24:54,172 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:25:00,180 - INFO - Proxy http://104.207.40.80:3128 is valid.
+2024-06-02 19:25:04,887 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:25:14,103 - INFO - Proxy http://104.207.52.94:3128 is valid.
+2024-06-02 19:25:18,857 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:25:26,129 - INFO - Proxy http://104.167.30.133:3128 is valid.
+2024-06-02 19:25:30,863 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:25:56,384 - INFO - Proxy http://104.207.42.35:3128 is valid.
+2024-06-02 19:26:01,125 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:26:08,244 - INFO - Proxy http://104.207.56.210:3128 is valid.
+2024-06-02 19:26:12,942 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:26:20,778 - INFO - Proxy http://104.207.49.249:3128 is valid.
+2024-06-02 19:26:25,495 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:26:31,941 - INFO - Proxy http://104.207.32.52:3128 is valid.
+2024-06-02 19:26:36,682 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:27:01,482 - INFO - Proxy http://104.207.49.47:3128 is valid.
+2024-06-02 19:27:06,223 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:27:15,953 - INFO - Proxy http://104.207.54.42:3128 is valid.
+2024-06-02 19:27:20,664 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:27:30,697 - INFO - Proxy http://104.207.54.94:3128 is valid.
+2024-06-02 19:27:35,400 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:27:44,537 - INFO - Proxy http://104.167.31.102:3128 is valid.
+2024-06-02 19:27:49,280 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:28:11,669 - INFO - Proxy http://104.207.55.199:3128 is valid.
+2024-06-02 19:28:16,432 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:28:26,196 - INFO - Proxy http://104.207.58.61:3128 is valid.
+2024-06-02 19:28:30,933 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:28:41,213 - INFO - Proxy http://104.207.45.213:3128 is valid.
+2024-06-02 19:28:45,931 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:28:52,783 - INFO - Proxy http://104.207.46.92:3128 is valid.
+2024-06-02 19:28:57,528 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:29:22,482 - INFO - Proxy http://104.167.24.41:3128 is valid.
+2024-06-02 19:29:27,212 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:29:38,102 - INFO - Proxy http://104.207.53.102:3128 is valid.
+2024-06-02 19:29:42,836 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:29:53,099 - INFO - Proxy http://104.207.49.102:3128 is valid.
+2024-06-02 19:29:57,833 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:30:08,412 - INFO - Proxy http://104.167.29.153:3128 is valid.
+2024-06-02 19:30:13,161 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:30:36,776 - INFO - Proxy http://104.207.38.134:3128 is valid.
+2024-06-02 19:30:41,519 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:30:50,347 - INFO - Proxy http://104.207.54.69:3128 is valid.
+2024-06-02 19:30:55,089 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:31:05,310 - INFO - Proxy http://104.167.26.221:3128 is valid.
+2024-06-02 19:31:10,050 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:31:18,245 - INFO - Proxy http://104.207.34.40:3128 is valid.
+2024-06-02 19:31:23,010 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:31:45,354 - INFO - Proxy http://104.207.33.241:3128 is valid.
+2024-06-02 19:31:50,071 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:31:58,071 - INFO - Proxy http://104.207.44.150:3128 is valid.
+2024-06-02 19:32:02,827 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:32:13,594 - INFO - Proxy http://104.167.29.94:3128 is valid.
+2024-06-02 19:32:18,325 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:32:25,441 - INFO - Proxy http://104.207.56.4:3128 is valid.
+2024-06-02 19:32:30,178 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:32:54,642 - INFO - Proxy http://104.207.36.167:3128 is valid.
+2024-06-02 19:32:59,368 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:33:06,168 - INFO - Proxy http://104.207.37.79:3128 is valid.
+2024-06-02 19:33:10,908 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:33:17,321 - INFO - Proxy http://104.207.37.101:3128 is valid.
+2024-06-02 19:33:22,047 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:33:31,069 - INFO - Proxy http://104.207.56.29:3128 is valid.
+2024-06-02 19:33:35,841 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:33:59,584 - INFO - Proxy http://104.207.35.23:3128 is valid.
+2024-06-02 19:34:04,353 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:34:14,833 - INFO - Proxy http://104.207.63.145:3128 is valid.
+2024-06-02 19:34:19,568 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:34:28,854 - INFO - Proxy http://104.207.61.206:3128 is valid.
+2024-06-02 19:34:33,573 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:34:41,997 - INFO - Proxy http://104.207.40.153:3128 is valid.
+2024-06-02 19:34:46,735 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:35:11,466 - INFO - Proxy http://104.167.24.164:3128 is valid.
+2024-06-02 19:35:16,199 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:35:23,713 - INFO - Proxy http://104.207.51.218:3128 is valid.
+2024-06-02 19:35:28,458 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:35:38,647 - INFO - Proxy http://104.207.37.22:3128 is valid.
+2024-06-02 19:35:43,357 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:35:49,436 - INFO - Proxy http://104.167.26.183:3128 is valid.
+2024-06-02 19:35:54,172 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:36:17,570 - INFO - Proxy http://104.207.52.178:3128 is valid.
+2024-06-02 19:36:22,297 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:36:28,901 - INFO - Proxy http://104.207.63.181:3128 is valid.
+2024-06-02 19:36:33,623 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:36:40,729 - INFO - Proxy http://104.167.25.173:3128 is valid.
+2024-06-02 19:36:45,444 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:36:54,931 - INFO - Proxy http://104.207.37.87:3128 is valid.
+2024-06-02 19:36:59,655 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:37:24,375 - INFO - Proxy http://104.207.36.135:3128 is valid.
+2024-06-02 19:37:29,125 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:37:35,243 - INFO - Proxy http://104.207.36.112:3128 is valid.
+2024-06-02 19:37:40,003 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:37:46,950 - INFO - Proxy http://104.207.45.127:3128 is valid.
+2024-06-02 19:37:51,710 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:38:01,574 - INFO - Proxy http://104.167.27.202:3128 is valid.
+2024-06-02 19:38:06,331 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:38:29,021 - INFO - Proxy http://104.207.57.184:3128 is valid.
+2024-06-02 19:38:33,760 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:38:42,344 - INFO - Proxy http://104.207.51.184:3128 is valid.
+2024-06-02 19:38:47,084 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:38:57,543 - INFO - Proxy http://104.167.27.138:3128 is valid.
+2024-06-02 19:39:02,307 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:39:12,358 - INFO - Proxy http://104.207.37.159:3128 is valid.
+2024-06-02 19:39:17,096 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:39:41,209 - INFO - Proxy http://104.207.63.41:3128 is valid.
+2024-06-02 19:39:45,949 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:39:55,614 - INFO - Proxy http://104.207.58.20:3128 is valid.
+2024-06-02 19:40:00,348 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:40:08,081 - INFO - Proxy http://104.167.27.77:3128 is valid.
+2024-06-02 19:40:12,832 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:40:22,562 - INFO - Proxy http://104.207.42.61:3128 is valid.
+2024-06-02 19:40:27,306 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:40:53,568 - INFO - Proxy http://104.207.50.220:3128 is valid.
+2024-06-02 19:40:58,318 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:41:04,573 - INFO - Proxy http://104.167.28.99:3128 is valid.
+2024-06-02 19:41:09,312 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:41:16,686 - INFO - Proxy http://104.207.40.169:3128 is valid.
+2024-06-02 19:41:21,410 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:41:29,955 - INFO - Proxy http://104.207.43.151:3128 is valid.
+2024-06-02 19:41:34,891 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:41:57,240 - INFO - Proxy http://104.167.30.68:3128 is valid.
+2024-06-02 19:42:01,992 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:42:11,796 - INFO - Proxy http://104.167.27.72:3128 is valid.
+2024-06-02 19:42:16,534 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:42:23,627 - INFO - Proxy http://104.207.60.50:3128 is valid.
+2024-06-02 19:42:28,369 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:42:39,129 - INFO - Proxy http://104.207.44.241:3128 is valid.
+2024-06-02 19:42:43,875 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:43:09,835 - INFO - Proxy http://104.207.36.154:3128 is valid.
+2024-06-02 19:43:14,588 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:43:21,862 - INFO - Proxy http://104.167.28.246:3128 is valid.
+2024-06-02 19:43:26,610 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:43:36,169 - INFO - Proxy http://104.207.59.93:3128 is valid.
+2024-06-02 19:43:40,929 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:43:49,632 - INFO - Proxy http://104.207.32.145:3128 is valid.
+2024-06-02 19:43:54,369 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:44:20,002 - INFO - Proxy http://104.207.50.134:3128 is valid.
+2024-06-02 19:44:24,737 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:44:31,636 - INFO - Proxy http://104.207.54.99:3128 is valid.
+2024-06-02 19:44:36,375 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:44:43,775 - INFO - Proxy http://104.207.46.213:3128 is valid.
+2024-06-02 19:44:48,510 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:44:54,694 - INFO - Proxy http://104.207.47.218:3128 is valid.
+2024-06-02 19:44:59,413 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:45:22,373 - INFO - Proxy http://104.207.37.127:3128 is valid.
+2024-06-02 19:45:27,108 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:45:33,860 - INFO - Proxy http://104.207.43.237:3128 is valid.
+2024-06-02 19:45:38,602 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:45:47,237 - INFO - Proxy http://104.207.53.222:3128 is valid.
+2024-06-02 19:45:51,947 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:45:58,287 - INFO - Proxy http://104.207.58.133:3128 is valid.
+2024-06-02 19:46:03,047 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:46:29,919 - INFO - Proxy http://104.207.43.119:3128 is valid.
+2024-06-02 19:46:34,686 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:46:43,586 - INFO - Proxy http://104.167.26.235:3128 is valid.
+2024-06-02 19:46:48,361 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:46:55,786 - INFO - Proxy http://104.167.31.222:3128 is valid.
+2024-06-02 19:47:00,597 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:47:09,770 - INFO - Proxy http://104.167.26.72:3128 is valid.
+2024-06-02 19:47:14,517 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:47:40,962 - INFO - Proxy http://104.207.34.211:3128 is valid.
+2024-06-02 19:47:45,691 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:47:55,517 - INFO - Proxy http://104.207.34.92:3128 is valid.
+2024-06-02 19:48:00,259 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:48:08,449 - INFO - Proxy http://104.207.52.205:3128 is valid.
+2024-06-02 19:48:13,173 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:48:19,924 - INFO - Proxy http://104.207.41.203:3128 is valid.
+2024-06-02 19:48:24,628 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:48:49,551 - INFO - Proxy http://104.207.36.133:3128 is valid.
+2024-06-02 19:48:54,303 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:49:03,679 - INFO - Proxy http://104.207.49.194:3128 is valid.
+2024-06-02 19:49:08,387 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:49:14,892 - INFO - Proxy http://104.207.47.78:3128 is valid.
+2024-06-02 19:49:19,604 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:49:29,100 - INFO - Proxy http://104.207.54.82:3128 is valid.
+2024-06-02 19:49:33,830 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:49:59,353 - INFO - Proxy http://104.207.51.11:3128 is valid.
+2024-06-02 19:50:04,093 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:50:13,049 - INFO - Proxy http://104.207.55.92:3128 is valid.
+2024-06-02 19:50:17,803 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:50:27,529 - INFO - Proxy http://104.207.62.121:3128 is valid.
+2024-06-02 19:50:32,214 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:50:42,491 - INFO - Proxy http://104.207.51.130:3128 is valid.
+2024-06-02 19:50:47,211 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:51:13,174 - INFO - Proxy http://104.207.38.20:3128 is valid.
+2024-06-02 19:51:17,897 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:51:24,097 - INFO - Proxy http://104.207.60.157:3128 is valid.
+2024-06-02 19:51:28,834 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:51:37,791 - INFO - Proxy http://104.207.61.76:3128 is valid.
+2024-06-02 19:51:42,530 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:51:51,580 - INFO - Proxy http://104.207.63.110:3128 is valid.
+2024-06-02 19:51:56,318 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:52:23,424 - INFO - Proxy http://104.207.49.86:3128 is valid.
+2024-06-02 19:52:28,127 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:52:36,247 - INFO - Proxy http://104.167.26.35:3128 is valid.
+2024-06-02 19:52:40,973 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:52:49,850 - INFO - Proxy http://104.207.57.75:3128 is valid.
+2024-06-02 19:52:54,571 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:53:04,341 - INFO - Proxy http://104.207.49.227:3128 is valid.
+2024-06-02 19:53:09,091 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:53:31,439 - INFO - Proxy http://104.207.48.48:3128 is valid.
+2024-06-02 19:53:36,152 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:53:45,272 - INFO - Proxy http://104.207.40.80:3128 is valid.
+2024-06-02 19:53:49,991 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:53:58,634 - INFO - Proxy http://104.207.52.94:3128 is valid.
+2024-06-02 19:54:03,354 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:54:09,428 - INFO - Proxy http://104.167.30.133:3128 is valid.
+2024-06-02 19:54:14,174 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:54:36,765 - INFO - Proxy http://104.207.42.35:3128 is valid.
+2024-06-02 19:54:41,514 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:54:51,313 - INFO - Proxy http://104.207.56.210:3128 is valid.
+2024-06-02 19:54:56,044 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:55:05,939 - INFO - Proxy http://104.207.49.249:3128 is valid.
+2024-06-02 19:55:10,661 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:55:19,504 - INFO - Proxy http://104.207.32.52:3128 is valid.
+2024-06-02 19:55:24,247 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:55:50,676 - INFO - Proxy http://104.207.49.47:3128 is valid.
+2024-06-02 19:55:55,393 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:56:02,095 - INFO - Proxy http://104.207.54.42:3128 is valid.
+2024-06-02 19:56:06,838 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:56:16,508 - INFO - Proxy http://104.207.54.94:3128 is valid.
+2024-06-02 19:56:21,261 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:56:32,266 - INFO - Proxy http://104.167.31.102:3128 is valid.
+2024-06-02 19:56:37,002 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:57:02,041 - INFO - Proxy http://104.207.55.199:3128 is valid.
+2024-06-02 19:57:06,756 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:57:14,076 - INFO - Proxy http://104.207.58.61:3128 is valid.
+2024-06-02 19:57:18,775 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:57:28,392 - INFO - Proxy http://104.207.45.213:3128 is valid.
+2024-06-02 19:57:33,133 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:57:42,008 - INFO - Proxy http://104.207.46.92:3128 is valid.
+2024-06-02 19:57:46,748 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:58:10,621 - INFO - Proxy http://104.167.24.41:3128 is valid.
+2024-06-02 19:58:15,360 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:58:25,405 - INFO - Proxy http://104.207.53.102:3128 is valid.
+2024-06-02 19:58:30,123 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:58:36,985 - INFO - Proxy http://104.207.49.102:3128 is valid.
+2024-06-02 19:58:41,750 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:58:49,166 - INFO - Proxy http://104.167.29.153:3128 is valid.
+2024-06-02 19:58:53,910 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:59:18,579 - INFO - Proxy http://104.207.38.134:3128 is valid.
+2024-06-02 19:59:23,326 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:59:30,611 - INFO - Proxy http://104.207.54.69:3128 is valid.
+2024-06-02 19:59:35,370 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:59:43,324 - INFO - Proxy http://104.167.26.221:3128 is valid.
+2024-06-02 19:59:48,020 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 19:59:56,419 - INFO - Proxy http://104.207.34.40:3128 is valid.
+2024-06-02 20:00:01,171 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:00:24,862 - INFO - Proxy http://104.207.33.241:3128 is valid.
+2024-06-02 20:00:29,572 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:00:39,205 - INFO - Proxy http://104.207.44.150:3128 is valid.
+2024-06-02 20:00:43,957 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:00:49,992 - INFO - Proxy http://104.167.29.94:3128 is valid.
+2024-06-02 20:00:54,719 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:01:02,660 - INFO - Proxy http://104.207.56.4:3128 is valid.
+2024-06-02 20:01:07,414 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:01:30,631 - INFO - Proxy http://104.207.36.167:3128 is valid.
+2024-06-02 20:01:35,411 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:01:44,059 - INFO - Proxy http://104.207.37.79:3128 is valid.
+2024-06-02 20:01:48,787 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:01:58,221 - INFO - Proxy http://104.207.37.101:3128 is valid.
+2024-06-02 20:02:02,952 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:02:12,099 - INFO - Proxy http://104.207.56.29:3128 is valid.
+2024-06-02 20:02:16,857 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:02:42,394 - INFO - Proxy http://104.207.35.23:3128 is valid.
+2024-06-02 20:02:47,145 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:02:55,472 - INFO - Proxy http://104.207.63.145:3128 is valid.
+2024-06-02 20:03:00,212 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:03:10,795 - INFO - Proxy http://104.207.61.206:3128 is valid.
+2024-06-02 20:03:15,538 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:03:22,536 - INFO - Proxy http://104.207.40.153:3128 is valid.
+2024-06-02 20:03:27,285 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:03:54,526 - INFO - Proxy http://104.167.24.164:3128 is valid.
+2024-06-02 20:03:59,252 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:04:06,353 - INFO - Proxy http://104.207.51.218:3128 is valid.
+2024-06-02 20:04:11,096 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:04:17,038 - INFO - Proxy http://104.207.37.22:3128 is valid.
+2024-06-02 20:04:21,776 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:04:28,637 - INFO - Proxy http://104.167.26.183:3128 is valid.
+2024-06-02 20:04:33,394 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:04:57,096 - INFO - Proxy http://104.207.52.178:3128 is valid.
+2024-06-02 20:05:01,808 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:05:08,836 - INFO - Proxy http://104.207.63.181:3128 is valid.
+2024-06-02 20:05:13,586 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:05:23,361 - INFO - Proxy http://104.167.25.173:3128 is valid.
+2024-06-02 20:05:28,106 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:05:35,284 - INFO - Proxy http://104.207.37.87:3128 is valid.
+2024-06-02 20:05:40,046 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:06:04,039 - INFO - Proxy http://104.207.36.135:3128 is valid.
+2024-06-02 20:06:08,776 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:06:16,862 - INFO - Proxy http://104.207.36.112:3128 is valid.
+2024-06-02 20:06:21,596 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:06:30,766 - INFO - Proxy http://104.207.45.127:3128 is valid.
+2024-06-02 20:06:35,498 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:06:47,250 - ERROR - Proxy http://104.167.27.202:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:06:48,233 - INFO - Proxy http://104.207.57.184:3128 is valid.
+2024-06-02 20:06:52,992 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:07:21,494 - ERROR - Proxy http://104.167.27.202:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:07:22,448 - INFO - Proxy http://104.207.51.184:3128 is valid.
+2024-06-02 20:07:27,183 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:07:41,906 - ERROR - Proxy http://104.167.27.202:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:07:46,995 - ERROR - Proxy http://104.167.27.138:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:07:47,950 - INFO - Proxy http://104.207.37.159:3128 is valid.
+2024-06-02 20:07:52,721 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:08:03,769 - ERROR - Proxy http://104.167.27.202:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:08:08,852 - ERROR - Proxy http://104.167.27.138:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:08:09,906 - INFO - Proxy http://104.207.63.41:3128 is valid.
+2024-06-02 20:08:14,648 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:08:27,211 - ERROR - Proxy http://104.167.27.202:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:08:32,306 - ERROR - Proxy http://104.167.27.138:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:08:33,305 - INFO - Proxy http://104.207.58.20:3128 is valid.
+2024-06-02 20:08:38,053 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:09:06,629 - ERROR - Proxy http://104.167.27.202:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:09:11,717 - ERROR - Proxy http://104.167.27.138:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:09:16,806 - ERROR - Proxy http://104.167.27.77:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:09:17,728 - INFO - Proxy http://104.207.42.61:3128 is valid.
+2024-06-02 20:09:22,464 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:09:35,696 - ERROR - Proxy http://104.167.27.202:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:09:40,789 - ERROR - Proxy http://104.167.27.138:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:09:45,878 - ERROR - Proxy http://104.167.27.77:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:09:46,742 - INFO - Proxy http://104.207.50.220:3128 is valid.
+2024-06-02 20:09:51,499 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:10:02,397 - ERROR - Proxy http://104.167.27.202:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:10:07,493 - ERROR - Proxy http://104.167.27.138:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:10:12,587 - ERROR - Proxy http://104.167.27.77:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:10:17,693 - ERROR - Proxy http://104.167.28.99:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:10:18,748 - INFO - Proxy http://104.207.40.169:3128 is valid.
+2024-06-02 20:10:23,454 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:10:34,306 - ERROR - Proxy http://104.167.27.202:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:10:39,401 - ERROR - Proxy http://104.167.27.138:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:10:44,500 - ERROR - Proxy http://104.167.27.77:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:10:49,587 - ERROR - Proxy http://104.167.28.99:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:10:50,436 - INFO - Proxy http://104.207.43.151:3128 is valid.
+2024-06-02 20:10:55,179 - ERROR - Error during browser setup or ad clicking: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-06-02 20:11:24,978 - ERROR - Proxy http://104.167.27.202:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:11:30,059 - ERROR - Proxy http://104.167.27.138:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:11:35,154 - ERROR - Proxy http://104.167.27.77:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))
+2024-06-02 20:11:40,242 - ERROR - Proxy http://104.167.28.99:3128 is invalid: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', TimeoutError('timed out')))

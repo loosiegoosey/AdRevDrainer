@@ -1,0 +1,311 @@
+automation_script.py content:
+import random
+import requests
+import logging
+from fetch_proxies import fetch_proxies
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
+import certifi
+
+# List of user agents to rotate
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+]
+
+def get_random_user_agent():
+    return random.choice(USER_AGENTS)
+
+class ProxyManager:
+    def __init__(self, proxies):
+        self.proxies = proxies
+        self.current_proxy = None
+        self.stats = {
+            'total_proxies': len(proxies),
+            'valid_proxies': 0,
+            'invalid_proxies': 0,
+            'fetch_failures': 0,
+            'validation_failures': 0
+        }
+
+    def get_next_proxy(self):
+        if not self.proxies:
+            raise Exception("No valid proxies available")
+        self.current_proxy = random.choice(self.proxies)
+        return self.current_proxy
+
+    def validate_proxy(self, proxy):
+        proxy = proxy.strip()
+        if not proxy.startswith("http://") and not proxy.startswith("https://"):
+            proxy = f"http://{proxy}"
+        headers = {"User-Agent": get_random_user_agent()}
+        for attempt in range(3):  # Retry mechanism with backoff
+            try:
+                response = requests.get("https://httpbin.org/ip", proxies={"http": proxy, "https": proxy}, timeout=5, headers=headers, verify=certifi.where())
+                if response.status_code == 200:
+                    logging.info(f"Proxy {proxy} is valid.")
+                    self.stats['valid_proxies'] += 1
+                    return proxy
+                else:
+                    logging.warning(f"Proxy {proxy} returned status code {response.status_code}.")
+            except requests.exceptions.ProxyError:
+                logging.error(f"Proxy {proxy} failed due to ProxyError.")
+            except requests.exceptions.ConnectTimeout:
+                logging.error(f"Proxy {proxy} failed due to ConnectTimeout.")
+            except requests.exceptions.ReadTimeout:
+                logging.error(f"Proxy {proxy} failed due to ReadTimeout.")
+            except Exception as e:
+                logging.error(f"Proxy {proxy} failed. Error: {e}")
+            time.sleep(2 ** attempt)  # Exponential backoff
+        self.stats['invalid_proxies'] += 1
+        return None
+
+    def validate_proxies(self):
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            future_to_proxy = {executor.submit(self.validate_proxy, proxy): proxy for proxy in self.proxies}
+            for future in as_completed(future_to_proxy):
+                proxy = future_to_proxy[future]
+                try:
+                    future.result()
+                except Exception as e:
+                    logging.error(f"Error occurred while validating proxy {proxy}: {e}")
+                    self.stats['validation_failures'] += 1
+        self.proxies = [proxy for proxy in future_to_proxy if future_to_proxy[proxy]]
+
+    def log_statistics(self):
+        logging.info(f"Total proxies fetched: {self.stats['total_proxies']}")
+        logging.info(f"Valid proxies: {self.stats['valid_proxies']}")
+        logging.info(f"Invalid proxies: {self.stats['invalid_proxies']}")
+        logging.info(f"Fetch failures: {self.stats['fetch_failures']}")
+        logging.info(f"Validation failures: {self.stats['validation_failures']}")
+
+if __name__ == '__main__':
+    # Set up logging
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+    logging.info("Fetching proxies...")
+    proxies = fetch_proxies()
+    proxy_manager = ProxyManager(proxies)
+    logging.info("Validating proxies...")
+    proxy_manager.validate_proxies()
+    proxy_manager.log_statistics()
+
+    if proxy_manager.proxies:
+        logging.info(f"Valid proxies found: {len(proxy_manager.proxies)}")
+        with open("valid_proxies.txt", "w") as proxy_file:
+            for proxy in proxy_manager.proxies:
+                proxy_file.write(f"{proxy}\n")
+    else:
+        logging.error("No valid proxies found.")
+
+
+fetch_proxies.py content:
+import requests
+from bs4 import BeautifulSoup
+import logging
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
+import random
+import certifi
+
+# List of user agents to rotate
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0",
+]
+
+def get_random_user_agent():
+    return random.choice(USER_AGENTS)
+
+def fetch_proxies():
+    proxy_sources = [
+        "https://www.us-proxy.org/",
+        "https://www.socks-proxy.net/",
+    ]
+
+    proxies = []
+
+    def fetch_from_source(source):
+        headers = {"User-Agent": get_random_user_agent()}
+        for attempt in range(3):  # Retry mechanism with exponential backoff
+            try:
+                response = requests.get(source, headers=headers, timeout=10, verify=certifi.where())
+                response.raise_for_status()
+                logging.info(f"Successfully fetched proxies from {source}")
+
+                soup = BeautifulSoup(response.content, 'html.parser')
+                table = soup.find('table')
+                if table:
+                    rows = table.find_all('tr')[1:]
+                    for row in rows:
+                        cols = row.find_all('td')
+                        if cols:
+                            ip = cols[0].text.strip()
+                            port = cols[1].text.strip()
+                            proxy = f"http://{ip}:{port}"
+                            proxies.append(proxy)
+                    logging.info(f"Extracted {len(rows)} proxies from {source}")
+                else:
+                    logging.error(f"No proxy table found in {source}")
+                break  # Exit retry loop if successful
+            except requests.exceptions.Timeout:
+                logging.error(f"Attempt {attempt+1} timed out while fetching proxies from {source}")
+                time.sleep(5 * (2 ** attempt))  # Exponential backoff
+            except requests.exceptions.RequestException as e:
+                logging.error(f"Attempt {attempt+1} failed to fetch proxies from {source}. Error: {e}")
+                time.sleep(5 * (2 ** attempt))  # Exponential backoff
+            except Exception as e:
+                logging.error(f"Unexpected error during fetch from {source}: {e}")
+                time.sleep(5 * (2 ** attempt))
+
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        future_to_source = {executor.submit(fetch_from_source, source): source for source in proxy_sources}
+        for future in as_completed(future_to_source):
+            source = future_to_source[future]
+            try:
+                future.result()
+            except Exception as e:
+                logging.error(f"Error occurred while processing source {source}: {e}")
+
+    logging.info(f"Total proxies fetched: {len(proxies)}")
+    return proxies
+
+def validate_proxy(proxy):
+    headers = {"User-Agent": get_random_user_agent()}
+    try:
+        response = requests.get("https://httpbin.org/ip", proxies={"http": proxy, "https": proxy}, timeout=5, headers=headers, verify=certifi.where())
+        return response.status_code == 200
+    except requests.exceptions.Timeout:
+        logging.error(f"Proxy {proxy} timed out during validation.")
+        return False
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Proxy {proxy} failed during validation. Error: {e}")
+        return False
+
+def validate_proxies(proxies):
+    logging.info("Validating proxies...")
+    valid_proxies = []
+
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_proxy = {executor.submit(validate_proxy, proxy): proxy for proxy in proxies}
+        for future in as_completed(future_to_proxy):
+            proxy = future_to_proxy[future]
+            try:
+                if future.result():
+                    valid_proxies.append(proxy)
+                    logging.info(f"Proxy {proxy} is valid.")
+                else:
+                    logging.warning(f"Proxy {proxy} is invalid.")
+            except Exception as e:
+                logging.error(f"Error occurred while validating proxy {proxy}: {e}")
+
+    logging.info(f"Total valid proxies: {len(valid_proxies)}")
+    return valid_proxies
+
+if __name__ == '__main__':
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+    
+    fetched_proxies = fetch_proxies()
+    valid_proxies = validate_proxies(fetched_proxies)
+    
+    for proxy in valid_proxies:
+        print(proxy)
+
+
+proxy_manager.py content:
+import random
+import requests
+import logging
+from fetch_proxies import fetch_proxies
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
+import certifi
+
+class ProxyManager:
+    def __init__(self, proxies):
+        self.proxies = proxies
+        self.current_proxy = None
+        self.stats = {
+            'total_proxies': len(proxies),
+            'valid_proxies': 0,
+            'invalid_proxies': 0,
+            'fetch_failures': 0,
+            'validation_failures': 0
+        }
+
+    def get_next_proxy(self):
+        if not self.proxies:
+            raise Exception("No valid proxies available")
+        self.current_proxy = random.choice(self.proxies)
+        return self.current_proxy
+
+    def validate_proxy(self, proxy):
+        proxy = proxy.strip()
+        if not proxy.startswith("http://") and not proxy.startswith("https://"):
+            proxy = f"http://{proxy}"
+        headers = {"User-Agent": get_random_user_agent()}
+        for attempt in range(3):  # Retry mechanism with backoff
+            try:
+                response = requests.get("https://httpbin.org/ip", proxies={"http": proxy, "https": proxy}, timeout=5, headers=headers, verify=certifi.where())
+                if response.status_code == 200:
+                    logging.info(f"Proxy {proxy} is valid.")
+                    self.stats['valid_proxies'] += 1
+                    return proxy
+                else:
+                    logging.warning(f"Proxy {proxy} returned status code {response.status_code}.")
+            except requests.exceptions.ProxyError:
+                logging.error(f"Proxy {proxy} failed due to ProxyError.")
+            except requests.exceptions.ConnectTimeout:
+                logging.error(f"Proxy {proxy} failed due to ConnectTimeout.")
+            except requests.exceptions.ReadTimeout:
+                logging.error(f"Proxy {proxy} failed due to ReadTimeout.")
+            except Exception as e:
+                logging.error(f"Proxy {proxy} failed. Error: {e}")
+            time.sleep(2 ** attempt)  # Exponential backoff
+        self.stats['invalid_proxies'] += 1
+        return None
+
+    def validate_proxies(self):
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            future_to_proxy = {executor.submit(self.validate_proxy, proxy): proxy for proxy in self.proxies}
+            for future in as_completed(future_to_proxy):
+                proxy = future_to_proxy[future]
+                try:
+                    future.result()
+                except Exception as e:
+                    logging.error(f"Error occurred while validating proxy {proxy}: {e}")
+                    self.stats['validation_failures'] += 1
+        self.proxies = [proxy for proxy in future_to_proxy if future_to_proxy[proxy]]
+
+    def log_statistics(self):
+        logging.info(f"Total proxies fetched: {self.stats['total_proxies']}")
+        logging.info(f"Valid proxies: {self.stats['valid_proxies']}")
+        logging.info(f"Invalid proxies: {self.stats['invalid_proxies']}")
+        logging.info(f"Fetch failures: {self.stats['fetch_failures']}")
+        logging.info(f"Validation failures: {self.stats['validation_failures']}")
+
+if __name__ == '__ '__main__':
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+    logging.info("Fetching proxies...")
+    proxies = fetch_proxies()
+    proxy_manager = ProxyManager(proxies)
+    logging.info("Validating proxies...")
+    proxy_manager.validate_proxies()
+    proxy_manager.log_statistics()
+
+    if proxy_manager.proxies:
+        logging.info(f"Valid proxies found: {len(proxy_manager.proxies)}")
+        with open("valid_proxies.txt", "w") as proxy_file:
+            for proxy in proxy_manager.proxies:
+                proxy_file.write(f"{proxy}\n")
+    else:
+        logging.error("No valid proxies found.")
+
+

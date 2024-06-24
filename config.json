@@ -1,0 +1,9 @@
+{
+  "proxies": ["http://proxy1:port", "http://proxy2:port", "http://proxy3:port"],
+  "user_agents": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+  ],
+  "delay_range": [1, 5],
+  "amazon_url": "https://www.amazon.com"
+}
