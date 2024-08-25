@@ -1,94 +1,78 @@
+from playwright.sync_api import sync_playwright
 import time
 import random
-from playwright.sync_api import sync_playwright
+
+# Function to log the number of ads clicked
+def log_click_count(click_count):
+    with open('click_log.txt', 'w') as log_file:
+        log_file.write(str(click_count))
 
 def run(playwright):
-    # Launch browser
+    # Launch the browser in non-headless mode to see the actions
     browser = playwright.chromium.launch(headless=False)
-    context = browser.new_context(
-        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-    )
-    
-    # Open a new page
+    context = browser.new_context()
     page = context.new_page()
     
     # Navigate to Amazon
     page.goto('https://www.amazon.com')
-    
-    try:
-        # Wait for the page to fully load
-        page.wait_for_load_state('networkidle')
-        
-        # Wait for the search box to be available and interact with it
-        search_box = page.locator('#twotabsearchtextbox')
-        search_box.wait_for(state='visible', timeout=10000)  # Wait for up to 10 seconds for the search box to appear
 
-        if search_box.is_visible():
-            search_box.fill('Kellogg')  # Type 'Kellogg' into the search box
-            search_box.press('Enter')  # Press Enter to search
-        else:
-            print("Search box not found or not interactable. Exiting script.")
-            context.close()
-            browser.close()
-            return
+    # Check for CAPTCHA and wait for manual resolution if found
+    if page.locator('text=Enter the characters you see below').is_visible():
+        print("CAPTCHA detected. Please solve it manually.")
+        page.pause()  # Pause the script and allow manual CAPTCHA resolution
     
+    # Wait for the search box to be available
+    try:
+        page.wait_for_selector("#twotabsearchtextbox", timeout=10000)
+        search_box = page.locator("#twotabsearchtextbox")
+        search_box.fill('Kellogg')  # Enter the search term
+        search_box.press("Enter")  # Press Enter to search
     except Exception as e:
         print(f"Search box not found or not interactable: {e}")
-        context.close()
         browser.close()
         return
-    
-    # Initialize ad click counter
-    ad_click_counter = 0
-    
-    try:
-        # Infinite loop to keep the script running
-        while True:
-            ads = None
-            try:
-                # Wait for banner ads to be present
-                ads = page.locator('a#adLink')
-                ads.wait_for(state='visible', timeout=15000)  # Wait up to 15 seconds for ads to become visible
 
-                if ads.count() == 0:
-                    print("No ads found.")
-                else:
-                    print(f"Found {ads.count()} ads.")
-                    for ad in range(ads.count()):
-                        time.sleep(random.uniform(5, 15))  # Random pause before clicking
-                        
-                        # Smooth scroll to the ad (like a human)
-                        ads.nth(ad).scroll_into_view_if_needed()
-                        time.sleep(random.uniform(1, 3))
-                        
-                        if ads.nth(ad).is_visible() and ads.nth(ad).is_enabled():
-                            ads.nth(ad).click()
-                            ad_click_counter += 1
-                            print(f"Ad clicked. Total clicks: {ad_click_counter}")
-                        else:
-                            print("Ad not clickable.")
+    # Initialize click counter
+    click_count = 0
+    
+    # Infinite loop to keep the script running
+    while True:
+        try:
+            # Wait for ads to load
+            ads = page.locator('//a[@id="adLink"]')
+            
+            if ads.count() == 0:
+                print("No ads found.")
+                time.sleep(random.uniform(2, 5))  # Random pause before retrying
+                continue
+            
+            # Click on each ad found
+            for i in range(ads.count()):
+                ad = ads.nth(i)
+                
+                # Scroll to ad smoothly
+                page.evaluate("arguments[0].scrollIntoView({behavior: 'smooth'});", ad)
+                time.sleep(random.uniform(1, 3))  # Random delay before clicking
 
-                        time.sleep(random.uniform(5, 10))  # Pause after clicking ad
-                        
-                        # Go back to search results
-                        page.go_back()
-                        
-            except Exception as e:
-                print(f"Ads not found or click failed: {e}")
-            
-            # Log the number of ad clicks
-            with open("click_log.txt", "w") as log_file:
-                log_file.write(f"{ad_click_counter}\n")
-            
-            # Pause before the next iteration
-            time.sleep(random.uniform(2, 5))  # Random pause between 2 and 5 seconds
-            
-    except KeyboardInterrupt:
-        print("Script terminated by user.")
-    finally:
-        # Close the browser and context
-        context.close()
-        browser.close()
+                # Click the ad
+                ad.click()
+                click_count += 1
+                log_click_count(click_count)  # Update the log file
+
+                time.sleep(random.uniform(5, 10))  # Pause after clicking ad
+
+                # Navigate back to the search results
+                page.go_back()
+
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            break
+
+        # Random pause before the next iteration
+        time.sleep(random.uniform(2, 5))  # Random pause between 2 and 5 seconds
+
+    # Close the browser (if you ever break out of the loop)
+    browser.close()
 
 with sync_playwright() as playwright:
     run(playwright)
