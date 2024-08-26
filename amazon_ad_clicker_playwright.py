@@ -38,32 +38,44 @@ def run(playwright):
     # Infinite loop to keep the script running
     while True:
         try:
-            # Wait for ads to load
-            ads = page.locator('//a[@id="adLink"]')
+            # Locate iframes on the page
+            iframes = page.frames
             
-            if ads.count() == 0:
-                print("No ads found.")
+            ads_found = False
+
+            for iframe in iframes:
+                try:
+                    # Check if the iframe contains the ad element
+                    ad = iframe.locator('//*[@id="adLink"]')
+                    
+                    if ad.count() > 0:
+                        ads_found = True
+                        for i in range(ad.count()):
+                            single_ad = ad.nth(i)
+                            
+                            # Scroll to ad smoothly
+                            iframe.evaluate("arguments[0].scrollIntoView({behavior: 'smooth'});", single_ad)
+                            time.sleep(random.uniform(1, 3))  # Random delay before clicking
+
+                            # Click the ad
+                            single_ad.click()
+                            click_count += 1
+                            log_click_count(click_count)  # Update the log file
+
+                            time.sleep(random.uniform(5, 10))  # Pause after clicking ad
+
+                            # Navigate back to the search results
+                            page.go_back()
+                    else:
+                        print("No ads found in the current iframe.")
+                except Exception as iframe_error:
+                    print(f"Error interacting with iframe: {iframe_error}")
+            
+            if not ads_found:
+                print("No ads found on the page. Refreshing...")
+                page.reload()
                 time.sleep(random.uniform(2, 5))  # Random pause before retrying
-                continue
             
-            # Click on each ad found
-            for i in range(ads.count()):
-                ad = ads.nth(i)
-                
-                # Scroll to ad smoothly
-                page.evaluate("arguments[0].scrollIntoView({behavior: 'smooth'});", ad)
-                time.sleep(random.uniform(1, 3))  # Random delay before clicking
-
-                # Click the ad
-                ad.click()
-                click_count += 1
-                log_click_count(click_count)  # Update the log file
-
-                time.sleep(random.uniform(5, 10))  # Pause after clicking ad
-
-                # Navigate back to the search results
-                page.go_back()
-
         except Exception as e:
             print(f"An error occurred: {e}")
             break
